@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Valenti on YZ Lab</title>
+    <link>https://yzlab1.github.io/main/authors/l.-valenti/</link>
+    <description>Recent content in L. Valenti on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; YZ Lab {year}</copyright>
+    <lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://yzlab1.github.io/main/authors/l.-valenti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A population-based study on the prevalence of NASH using scores validated against liver histology</title>
+      <link>https://yzlab1.github.io/main/publication/ref-works-1314/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://yzlab1.github.io/main/publication/ref-works-1314/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
