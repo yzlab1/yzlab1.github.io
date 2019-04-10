@@ -7,8 +7,38 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; YZ Lab {year}</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0100</lastBuildDate>
     <atom:link href="/main/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NASH diagnosis</title>
+      <link>https://yz-lab.org/main/project/nashdig/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/project/nashdig/</guid>
+      <description>&lt;p&gt;We recently developed a new non-invasaive method of predicting the risk of developing a severe form of liver disease, which is able to ensure patients receive early and potentially life-saving medical intervention before irreversible damage is done. We will focus on further developing this algorithm, and ultimately using it in clinics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NASH treatment</title>
+      <link>https://yz-lab.org/main/project/nashtreat/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/project/nashtreat/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Computationally screening compounds for treating steatohepatitis&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>circular RNAs</title>
+      <link>https://yz-lab.org/main/project/circrna/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/project/circrna/</guid>
+      <description>&lt;p&gt;Systematically and deep screening functional circRNAs for diagnosis and treatment in the context of inflammation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Circular RNA hsa_circ_001783 regulates breast cancer progression via sponging miR-200c-3p</title>
@@ -192,33 +222,6 @@ Our paper on the role of IL-9 in liver fibrosis has been published in &lt;a href
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
       
       <guid>https://yz-lab.org/main/publication/ref-works-1426/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Severe neurodegenerative disease in brothers with homozygous mutation in POLR1A</title>
-      <link>https://yz-lab.org/main/publication/ref-works-1418/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/publication/ref-works-1418/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Obesity/insulin resistance rather than liver fat increases coagulation factor activities and expression in humans</title>
-      <link>https://yz-lab.org/main/publication/ref-works-1419/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/publication/ref-works-1419/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The MBOAT7 variant rs641738 alters hepatic phosphatidylinositols and increases severity of non-alcoholic fatty liver disease in humans</title>
-      <link>https://yz-lab.org/main/publication/ref-works-1417/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/publication/ref-works-1417/</guid>
       <description></description>
     </item>
     

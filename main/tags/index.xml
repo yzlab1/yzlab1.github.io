@@ -211,29 +211,20 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://yz-lab.org/main/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://yz-lab.org/main/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Diagnosis; Liver; Nonalcoholic Fatty Liver Disease; Prediction; Triglycerides</title>
       <link>https://yz-lab.org/main/tags/diagnosis-liver-nonalcoholic-fatty-liver-disease-prediction-triglycerides/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
       
       <guid>https://yz-lab.org/main/tags/diagnosis-liver-nonalcoholic-fatty-liver-disease-prediction-triglycerides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnostics</title>
+      <link>https://yz-lab.org/main/tags/diagnostics/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/tags/diagnostics/</guid>
       <description></description>
     </item>
     
@@ -405,6 +396,15 @@
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/tags/tertiary-protein-transport-receptors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Therapeutics</title>
+      <link>https://yz-lab.org/main/tags/therapeutics/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/tags/therapeutics/</guid>
       <description></description>
     </item>
     
