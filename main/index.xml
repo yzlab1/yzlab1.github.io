@@ -7,8 +7,21 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; YZ Lab {year}</copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2019 00:00:00 +0100</lastBuildDate>
     <atom:link href="/main/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GW4 PhD Studentship</title>
+      <link>https://yz-lab.org/main/job/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/job/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/AdverYZ.jpg&#34; width=&#34;390&#34;&gt;
+A PhD studentship is available in the lab (commencing in October 2020). This studentship consists of full UK/EU tuition fees, as well as a Doctoral Stipend matching UK Research Council National Minimum (£15,009 p.a. for 2019-20, updated yearly).  We welcome applicants with non-biomedical backgrounds and the studentship can fund additional training to assist discipline conversion. Most studentships will be 3.5 years full time or up to 7 years part-time, and can be longer where additional training is undertaken. Additional research and training funding is available over the course of the PhD training programme. This will covers costs such as courses, conferences and travel, and research consumables.&lt;/p&gt;
+
+&lt;p&gt;Details please see: &lt;a href=&#34;https://bit.ly/2ppsM3C&#34; target=&#34;_blank&#34;&gt;https://bit.ly/2ppsM3C&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NASH diagnosis</title>
@@ -121,14 +134,23 @@
       
       <guid>https://yz-lab.org/main/news/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Oct 10, 2019&lt;/strong&gt;:
+&lt;a href=&#34;../files/GW4PhD_2019YZ.pdf&#34;&gt;A GW4 PhD studentship is available&lt;/a&gt; in the lab. We WELCOME applicants from &lt;strong&gt;ALL disciplines&lt;/strong&gt; including Computer Science, Mathematics, Engineering, Physics, Bioinformatics or Biomedicine. Details please see: &lt;a href=&#34;https://bit.ly/2ppsM3C&#34; target=&#34;_blank&#34;&gt;https://bit.ly/2ppsM3C&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sep 25, 2019&lt;/strong&gt;:
+Roanne has won the &amp;ldquo;Best Oral Presentation&amp;rdquo; Award at the European meeting on Comelment in human disease in Madrid. Congratulations!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;July 01, 2019&lt;/strong&gt;:
+Dr Zhou is now an Associate Theme Leader of Immunology, Infection and Inflammation in our &lt;a href=&#34;https://www.cardiff.ac.uk/colleges/biomedical-life-sciences&#34; target=&#34;_blank&#34;&gt;College&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;June 23, 2019&lt;/strong&gt;:
+Welcome to Kayla Chan from School of Computer Science. She will do her master thesis in developing a webtool for lipidomic analysis.&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;June 20, 2019&lt;/strong&gt;:
 In collaboration with researchers in mathematics and computer science, we worked on tackling healthcare challenges from industry using AI as highlighted in the &lt;a href=&#34;https://www.cardiff.ac.uk/news/view/1517851-ai-in-health-and-care,-study-group&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;University News&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;June 18, 2019&lt;/strong&gt;:
-Wellcome Adrian Chau joining the lab. He has recently been awarded a Wellcome Inspire Vacation Studentship and will work on Alzheimer&amp;rsquo;s disease and liver metabolism.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;June 18, 2019&lt;/strong&gt;:
-Wellcome Adrian Chau joining the lab. He has recently been awarded a Wellcome Inspire Vacation Studentship and will work on Alzheimer&amp;rsquo;s disease and liver metabolism.&lt;/p&gt;&lt;/li&gt;
+Wellcome Adrian Chau joining the lab. He has recently been awarded a Wellcome Inspire Vacation Studentship to do his summer intern in the lab.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;May 1, 2019&lt;/strong&gt;:
 Dr. Zhou is invited to give a lecture at the Endocrinology, Nutrition &amp;amp; Metabolism &amp;amp;
@@ -219,15 +241,6 @@ Our paper on the role of IL-9 in liver fibrosis has been published in &lt;a href
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
       
       <guid>https://yz-lab.org/main/publication/ref-works-1433/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gadoxetic acid-enhanced MRI outperformed MDCT in diagnosing small hepatocellular carcinoma: A meta-analysis</title>
-      <link>https://yz-lab.org/main/publication/ref-works-1431/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/publication/ref-works-1431/</guid>
       <description></description>
     </item>
     

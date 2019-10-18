@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD on YZ Lab</title>
+    <link>https://yz-lab.org/main/tags/phd/</link>
+    <description>Recent content in PhD on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; YZ Lab {year}</copyright>
+    <lastBuildDate>Fri, 18 Oct 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GW4 PhD Studentship</title>
+      <link>https://yz-lab.org/main/job/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/job/</guid>
+      <description>A PhD studentship is available in the lab (commencing in October 2020). This studentship consists of full UK/EU tuition fees, as well as a Doctoral Stipend matching UK Research Council National Minimum (£15,009 p.a. for 2019-20, updated yearly). We welcome applicants with non-biomedical backgrounds and the studentship can fund additional training to assist discipline conversion. Most studentships will be 3.5 years full time or up to 7 years part-time, and can be longer where additional training is undertaken.</description>
+    </item>
+    
+  </channel>
+</rss>
