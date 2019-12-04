@@ -9,6 +9,12 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/publication/ref-works-1467/</loc>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/project/nashdig/</loc>
       <lastmod>2019-04-01T00:00:00+01:00</lastmod>
     </url>
@@ -394,6 +400,16 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/author/r5/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/author/r6/</loc>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/authors/-nan-he/</loc>
       <lastmod>2012-09-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -409,7 +425,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/publication_types/2/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -444,7 +460,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/a.-hakkarainen/</loc>
-      <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -473,6 +489,13 @@
     
       <loc>https://yz-lab.org/main/authors/a.-m.-kivela/</loc>
       <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/a.-nick/</loc>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -778,6 +801,13 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/c.-thiele/</loc>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/authors/c.-w.-he/</loc>
       <lastmod>2012-09-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -890,14 +920,14 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/e.-ikonen/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://yz-lab.org/main/authors/e.-isokuortti/</loc>
-      <lastmod>2017-10-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1024,6 +1054,13 @@
     
       <loc>https://yz-lab.org/main/tags/gene-conservation-lipid-binding-protein-orp-osbpl-phosphatidylinositol-4-phosphate-zebrafish/</loc>
       <lastmod>2014-04-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/tags/genetic-variation-hepatitis-hepatology-metabolism/</loc>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1170,7 +1207,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/h.-yki-jarvinen/</loc>
-      <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1464,7 +1501,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/l.-hodson/</loc>
-      <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1583,7 +1620,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/m.-holtta-vuori/</loc>
-      <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1611,21 +1648,21 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/m.-oresic/</loc>
-      <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://yz-lab.org/main/authors/m.-orho-melander/</loc>
-      <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://yz-lab.org/main/authors/m.-peltonen/</loc>
-      <lastmod>2017-10-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1716,7 +1753,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/n.-lundbom/</loc>
-      <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1772,7 +1809,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/p.-k.-luukkonen/</loc>
-      <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1835,14 +1872,14 @@
     <url>
     
       <loc>https://yz-lab.org/main/publication_types/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://yz-lab.org/main/publication/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
     </url>
   
     <url>
@@ -1987,6 +2024,13 @@
     
       <loc>https://yz-lab.org/main/authors/s.-lallukka/</loc>
       <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/s.-lallukka-bruck/</loc>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -2137,7 +2181,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/t.-hyotylainen/</loc>
-      <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -2431,7 +2475,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/y.-zhou/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -2540,6 +2584,18 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/r3/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/r5/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/r6/</loc>
       <priority>0</priority>
     </url>
   
