@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on YZ Lab</title>
+    <link>https://yz-lab.org/main/project/</link>
+    <description>Recent content in Projects on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; YZ Lab {year}</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NASH diagnosis</title>
+      <link>https://yz-lab.org/main/project/nashdig/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/project/nashdig/</guid>
+      <description>We recently developed a new non-invasaive method of predicting the risk of developing a severe form of liver disease, which is able to ensure patients receive early and potentially life-saving medical intervention before irreversible damage is done. We will focus on further developing this algorithm, and ultimately using it in clinics.</description>
+    </item>
+    
+    <item>
+      <title>NASH treatment</title>
+      <link>https://yz-lab.org/main/project/nashtreat/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/project/nashtreat/</guid>
+      <description>Computationally screening compounds for treating steatohepatitis</description>
+    </item>
+    
+    <item>
+      <title>circular RNAs</title>
+      <link>https://yz-lab.org/main/project/circrna/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/project/circrna/</guid>
+      <description>Systematically and deep screening functional circRNAs for diagnosis and treatment in the context of inflammation.</description>
+    </item>
+    
+  </channel>
+</rss>

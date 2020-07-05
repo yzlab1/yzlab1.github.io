@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YZ Lab</title>
+    <link>https://yz-lab.org/main/author/r1/</link>
+    <description>Recent content on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; YZ Lab {year}</copyright>
+    
+	<atom:link href="https://yz-lab.org/main/author/r1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

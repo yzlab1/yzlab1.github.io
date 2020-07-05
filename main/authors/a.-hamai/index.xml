@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Hamai on YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/a.-hamai/</link>
+    <description>Recent content in A. Hamai on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; YZ Lab {year}</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/authors/a.-hamai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autophagy-associated circRNA circCDYL augments autophagy and promotes breast cancer progression</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1474/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1474/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
