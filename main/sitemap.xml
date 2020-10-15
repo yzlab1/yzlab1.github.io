@@ -416,12 +416,17 @@
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/r1/</loc>
+      <loc>https://yz-lab.org/main/author/phd1/</loc>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/r2/</loc>
+      <loc>https://yz-lab.org/main/author/phd2/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/author/phd3/</loc>
     </url>
   
     <url>
@@ -3158,19 +3163,25 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/phd1/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/phd2/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/phd3/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/authors/r/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/authors/r1/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/authors/r2/</loc>
       <priority>0</priority>
     </url>
   
