@@ -431,11 +431,6 @@
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/r3/</loc>
-    </url>
-  
-    <url>
-    
       <loc>https://yz-lab.org/main/author/r4/</loc>
     </url>
   
@@ -452,6 +447,11 @@
     <url>
     
       <loc>https://yz-lab.org/main/author/r7/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/author/visitor/</loc>
     </url>
   
     <url>
@@ -3187,12 +3187,6 @@
   
     <url>
     
-      <loc>https://yz-lab.org/main/authors/r3/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://yz-lab.org/main/authors/r5/</loc>
       <priority>0</priority>
     </url>
@@ -3206,6 +3200,12 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/r7/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/visitor/</loc>
       <priority>0</priority>
     </url>
   
