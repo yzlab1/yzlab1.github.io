@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; YZ Lab {year}</copyright>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yz-lab.org/main/authors/j.-latorre/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A compound directed against S6K1 hampers fat mass expansion and mitigates diet-induced hepatosteatosis</title>
+      <link>https://yz-lab.org/main/publication/rn-170/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/rn-170/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Compounds that modulate AMPK activity and hepatic steatosis impact the biosynthesis of microRNAs required to maintain lipid homeostasis in hepatocytes</title>
