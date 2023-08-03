@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Li on YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/g.-li/</link>
+    <description>Recent content in G. Li on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; YZ Lab {year}</copyright>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/authors/g.-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NETosis promotes chronic inflammation and fibrosis in systemic lupus erythematosus and COVID-19</title>
+      <link>https://yz-lab.org/main/publication/rn-176/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/rn-176/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
