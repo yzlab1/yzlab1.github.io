@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; YZ Lab {year}</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yz-lab.org/main/authors/e.-ikonen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HiHo-AID2: boosting homozygous knock-in efficiency enables robust generation of human auxin-inducible degron cells</title>
+      <link>https://yz-lab.org/main/publication/rn-183/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/rn-183/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Human PNPLA3-I148M variant increases hepatic retention of polyunsaturated fatty acids</title>

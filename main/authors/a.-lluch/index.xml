@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; YZ Lab {year}</copyright>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yz-lab.org/main/authors/a.-lluch/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A novel long non-coding RNA connects obesity to impaired adipocyte function</title>
+      <link>https://yz-lab.org/main/publication/rn-190/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/rn-190/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A compound directed against S6K1 hampers fat mass expansion and mitigates diet-induced hepatosteatosis</title>

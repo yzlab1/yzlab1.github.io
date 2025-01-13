@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Ballester on YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/m.-ballester/</link>
+    <description>Recent content in M. Ballester on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; YZ Lab {year}</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/authors/m.-ballester/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A novel long non-coding RNA connects obesity to impaired adipocyte function</title>
+      <link>https://yz-lab.org/main/publication/rn-190/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/rn-190/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
