@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Hodson on YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/l.-hodson/</link>
+    <description>Recent content in L. Hodson on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; YZ Lab {year}</copyright>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/authors/l.-hodson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The PNPLA3-I148M variant increases polyunsaturated triglycerides in human adipose tissue</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1475/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1475/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human PNPLA3-I148M variant increases hepatic retention of polyunsaturated fatty acids</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1467/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1467/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saturated Fat Is More Metabolically Harmful for the Human Liver Than Unsaturated Fat or Simple Sugars</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1444/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1444/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
