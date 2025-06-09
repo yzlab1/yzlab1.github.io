@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; YZ Lab {year}</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yz-lab.org/main/authors/h.-wang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The multifaceted function of FoxO1 in pancreatic beta-cell dysfunction and insulin resistance: Therapeutic potential for type 2 diabetes</title>
+      <link>https://yz-lab.org/main/publication/rn-194/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/rn-194/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gallium Nitride: A Versatile Compound Semiconductor as Novel Piezoelectric Film for Acoustic Tweezer in Manipulation of Cancer Cells</title>
