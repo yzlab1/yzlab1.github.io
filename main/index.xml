@@ -7,8 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; YZ Lab {year}</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0100</lastBuildDate>
     <atom:link href="/main/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fusion-Guided Multimodal Imaging and Biomarker Platform for Precision Diagnosis</title>
+      <link>https://yz-lab.org/main/project/dldiagnosis/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/project/dldiagnosis/</guid>
+      <description>&lt;p&gt;Deep learning techniques have emerged as powerful tools for medical image diagnosis. However, their application in non-invasive diagnosis remains largely unexplored. Given the limitations of liver biopsy, there is a pressing need for non-invasive methods to accurately diagnose MASH. To address this gap, we aim to develop a deep learning–based, non-invasive, fusion-guided multimodal tool for MASH diagnosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Drug Repurposing</title>
+      <link>https://yz-lab.org/main/project/drugrepurposing/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/project/drugrepurposing/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Translating big data into new therapeutics&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Age-related impairment of intestinal inflammation resolution through an eicosanoid-immune-microbiota axis</title>
@@ -119,30 +139,13 @@
     </item>
     
     <item>
-      <title>C5aR2 Regulates STING-Mediated Interferon Beta Production in Human Macrophages</title>
-      <link>https://yz-lab.org/main/publication/rn-181/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Complement System: Bridging Immunity and Metabolism</title>
+      <link>https://yz-lab.org/main/project/complement/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0100</pubDate>
       
-      <guid>https://yz-lab.org/main/publication/rn-181/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From complement to complosome in non-alcoholic fatty liver disease: When location matters</title>
-      <link>https://yz-lab.org/main/publication/rn-180/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/publication/rn-180/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metabolic regulation by prostaglandin E(2) impairs lung group 2 innate lymphoid cell responses</title>
-      <link>https://yz-lab.org/main/publication/rn-177/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/publication/rn-177/</guid>
-      <description></description>
+      <guid>https://yz-lab.org/main/project/complement/</guid>
+      <description>&lt;p&gt;Understanding the Role of the Complement System in Immunometabolism.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

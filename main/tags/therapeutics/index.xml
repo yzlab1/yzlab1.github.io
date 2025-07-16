@@ -7,27 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; YZ Lab {year}</copyright>
-    <lastBuildDate>Sat, 30 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yz-lab.org/main/tags/therapeutics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>NASH treatment</title>
-      <link>https://yz-lab.org/main/project/nashtreat/</link>
-      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Computational Drug Repurposing</title>
+      <link>https://yz-lab.org/main/project/drugrepurposing/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/project/nashtreat/</guid>
-      <description>Translating big data into new therapeutics for NASH</description>
+      <guid>https://yz-lab.org/main/project/drugrepurposing/</guid>
+      <description>Translating big data into new therapeutics</description>
     </item>
     
     <item>
-      <title>circular RNAs</title>
-      <link>https://yz-lab.org/main/project/circrna/</link>
-      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Complement System: Bridging Immunity and Metabolism</title>
+      <link>https://yz-lab.org/main/project/complement/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0100</pubDate>
       
-      <guid>https://yz-lab.org/main/project/circrna/</guid>
-      <description>Systematically charactersing circRNAs in NAFLD.</description>
+      <guid>https://yz-lab.org/main/project/complement/</guid>
+      <description>Understanding the Role of the Complement System in Immunometabolism.</description>
     </item>
     
   </channel>

@@ -7,27 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; YZ Lab {year}</copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://yz-lab.org/main/tags/diagnostics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>NASH diagnosis</title>
-      <link>https://yz-lab.org/main/project/nashdig/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
+      <title>Fusion-Guided Multimodal Imaging and Biomarker Platform for Precision Diagnosis</title>
+      <link>https://yz-lab.org/main/project/dldiagnosis/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0100</pubDate>
       
-      <guid>https://yz-lab.org/main/project/nashdig/</guid>
-      <description>We recently developed a new non-invasaive method of predicting the risk of developing a severe form of liver disease, which is able to ensure patients receive early and potentially life-saving medical intervention before irreversible damage is done. We will focus on further developing this algorithm, and ultimately using it in clinics.</description>
+      <guid>https://yz-lab.org/main/project/dldiagnosis/</guid>
+      <description>Deep learning techniques have emerged as powerful tools for medical image diagnosis. However, their application in non-invasive diagnosis remains largely unexplored. Given the limitations of liver biopsy, there is a pressing need for non-invasive methods to accurately diagnose MASH. To address this gap, we aim to develop a deep learning–based, non-invasive, fusion-guided multimodal tool for MASH diagnosis.</description>
     </item>
     
     <item>
-      <title>circular RNAs</title>
-      <link>https://yz-lab.org/main/project/circrna/</link>
-      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Complement System: Bridging Immunity and Metabolism</title>
+      <link>https://yz-lab.org/main/project/complement/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0100</pubDate>
       
-      <guid>https://yz-lab.org/main/project/circrna/</guid>
-      <description>Systematically charactersing circRNAs in NAFLD.</description>
+      <guid>https://yz-lab.org/main/project/complement/</guid>
+      <description>Understanding the Role of the Complement System in Immunometabolism.</description>
     </item>
     
   </channel>

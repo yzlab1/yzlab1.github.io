@@ -3,6 +3,18 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/project/dldiagnosis/</loc>
+      <lastmod>2025-04-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/project/drugrepurposing/</loc>
+      <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/publication/rn-195/</loc>
       <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -71,6 +83,12 @@
     
       <loc>https://yz-lab.org/main/publication/rn-188/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/project/complement/</loc>
+      <lastmod>2023-03-29T00:00:00+01:00</lastmod>
     </url>
   
     <url>
@@ -239,24 +257,6 @@
     
       <loc>https://yz-lab.org/main/publication/ref-works-1467/</loc>
       <lastmod>2019-08-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/project/nashdig/</loc>
-      <lastmod>2019-04-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/project/nashtreat/</loc>
-      <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/project/circrna/</loc>
-      <lastmod>2019-03-29T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -1696,7 +1696,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/tags/diagnostics/</loc>
-      <lastmod>2019-04-01T00:00:00+01:00</lastmod>
+      <lastmod>2025-04-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -3782,7 +3782,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/project/</loc>
-      <lastmod>2019-04-01T00:00:00+01:00</lastmod>
+      <lastmod>2025-04-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -4567,7 +4567,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/tags/therapeutics/</loc>
-      <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+      <lastmod>2025-03-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -5022,7 +5022,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/</loc>
-      <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2025-04-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
