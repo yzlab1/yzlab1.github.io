@@ -7,8 +7,17 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; YZ Lab {year}</copyright>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0100</lastBuildDate>
     <atom:link href="/main/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Defective Olfactomedin-2 connects adipocyte dysfunction to obesity</title>
+      <link>https://yz-lab.org/main/publication/rn-196/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/rn-196/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fusion-Guided Multimodal Imaging and Biomarker Platform for Precision Diagnosis</title>
@@ -108,15 +117,6 @@
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/publication/rn-183/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial transcriptomics reveals unique metabolic profile and key oncogenic regulators of cervical squamous cell carcinoma</title>
-      <link>https://yz-lab.org/main/publication/rn-189/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/publication/rn-189/</guid>
       <description></description>
     </item>
     

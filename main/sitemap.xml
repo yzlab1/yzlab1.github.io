@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/publication/rn-196/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/project/dldiagnosis/</loc>
       <lastmod>2025-04-01T00:00:00+01:00</lastmod>
     </url>
@@ -64,12 +70,6 @@
     <url>
     
       <loc>https://yz-lab.org/main/publication/rn-183/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/publication/rn-189/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     </url>
   
@@ -597,52 +597,75 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/author/iliescu/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/author/wei/</loc>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/author/admin/</loc>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/phd1/</loc>
+      <loc>https://yz-lab.org/main/author/birong/</loc>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/phd2/</loc>
+      <loc>https://yz-lab.org/main/author/david/</loc>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/phd3/</loc>
+      <loc>https://yz-lab.org/main/author/dien/</loc>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/phd4/</loc>
+      <loc>https://yz-lab.org/main/author/joel/</loc>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/r1/</loc>
+      <loc>https://yz-lab.org/main/author/kayla/</loc>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/r5/</loc>
+      <loc>https://yz-lab.org/main/author/luyang/</loc>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/r6/</loc>
+      <loc>https://yz-lab.org/main/author/nick/</loc>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/r7/</loc>
+      <loc>https://yz-lab.org/main/author/sarah/</loc>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/author/visitor/</loc>
+      <loc>https://yz-lab.org/main/author/shenglei/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/-isabel-espadas/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -669,7 +692,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/publication_types/2/</loc>
-      <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1109,6 +1132,13 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/aina-lluch/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/tags/alanine-aminotransferase-aspartate-aminotransferase-metabolic-syndrome-non-alcoholic-fatty-liver-disease-non-alcoholic-steatohepatitis-type-2-diabetes/</loc>
       <lastmod>2014-04-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -1116,8 +1146,22 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/alejandro-mart%C3%ADn-montalvo/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/tags/alleles-asian-continental-ancestry-group/genetics-case-control-studies-european-continental-ancestry-group/genetics-genetic-predisposition-to-disease-glutathione-transferase/genetics-humans-male-odds-ratio-polymorphism/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/ana-i-domingos/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1186,7 +1230,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/</loc>
-      <lastmod>2012-09-01T00:00:00+01:00</lastmod>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1292,6 +1336,13 @@
     
       <loc>https://yz-lab.org/main/tags/biomembranes-eicosanoids-fatty-acids-infectious-diseases-lipidomics-oxidative-stress-phospholipids/</loc>
       <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/birong-zhang/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1404,13 +1455,6 @@
     
       <loc>https://yz-lab.org/main/authors/c.-raiborg/</loc>
       <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/authors/c.-shen/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1800,15 +1844,22 @@
   
     <url>
     
-      <loc>https://yz-lab.org/main/authors/f.-beuron/</loc>
-      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+      <loc>https://yz-lab.org/main/authors/eduardo-chicano/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/authors/f.-chen/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <loc>https://yz-lab.org/main/authors/estefan%C3%ADa-caballano-infantes/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/f.-beuron/</loc>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1893,6 +1944,13 @@
     
       <loc>https://yz-lab.org/main/tags/fluorescence-receptors/</loc>
       <lastmod>2014-04-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/francisco-j-ortega/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -2005,6 +2063,13 @@
     
       <loc>https://yz-lab.org/main/tags/genetic-young-adult/</loc>
       <lastmod>2013-10-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/gitalee-sarker/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -2262,6 +2327,12 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/iliescu/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/tags/insulin-liver-fat-nafld-pnpla3-reference-values/</loc>
       <lastmod>2017-10-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -2271,6 +2342,13 @@
     
       <loc>https://yz-lab.org/main/tags/insulin-metabolic-syndrome-obesity/</loc>
       <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/ismael-gonz%C3%A1lez-garc%C3%ADa/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -2374,13 +2452,6 @@
   
     <url>
     
-      <loc>https://yz-lab.org/main/authors/j.-hu/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://yz-lab.org/main/authors/j.-hyysalo/</loc>
       <lastmod>2016-10-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -2466,7 +2537,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/j.-liu/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -2759,8 +2830,57 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/jaime-l%C3%B3pez-alcal%C3%A1/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/johanna-p%C3%B6rschke/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/johannes-graumann/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/jos%C3%A9-l-labandeira-garc%C3%ADa/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/jos%C3%A9-m-fern%C3%A1ndez-real/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/jos%C3%A9-m-moreno-navarrete/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/authors/julia-perttil%C3%A4/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/j%C3%A8ssica-latorre/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -3089,7 +3209,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/l.-zhou/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2022-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -3501,8 +3621,29 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/mar%C3%ADa-g%C3%B3mez-serrano/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/mar%C3%ADa-m-malag%C3%B3n/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/tags/messenger/genetics-receptors/</loc>
       <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/miguel-l%C3%B3pez/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -3557,8 +3698,29 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/naoki-nakaya/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/tags/neoplastic-humans-intercellular-signaling-peptides-and-proteins/biosynthesis/genetics-kaplan-meier-estimate-male-middle-aged-neoplasm-proteins/biosynthesis/genetics-neoplasm-recurrence/</loc>
       <lastmod>2015-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/nicol%C3%A1s-f-malvido/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/n%C3%BAria-oliveras-ca%C3%B1ellas/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -3768,7 +3930,14 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/p.-yao/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/pablo-garrido-gil/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -3796,7 +3965,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/publication/</loc>
-      <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
     </url>
   
     <url>
@@ -4387,6 +4556,13 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/silvia-mora/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/tags/single-nucleotide-risk-factors-case-control-gene-polymorphism-interleukin-10-irritable-bowel-syndrome-meta-analysis/</loc>
       <lastmod>2013-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -4414,6 +4590,13 @@
     
       <loc>https://yz-lab.org/main/tags/small-interfering/administration-dosage-stromal-interaction-molecule-1/genetics-thyroid-epithelial-cells/drug-effects/pathology-thyroid-gland/drug-effects/pathology-thyroid-neoplasms/drug-therapy/genetics/pathology-up-regulation/drug-effects/genetics-young-adult-zebrafish-invasion-migration-orai1-calcium-channel-proliferation-store-operated-calcium-entry-soce-stromal-interaction-molecule-1-stim1-thyroid-cancer/</loc>
       <lastmod>2021-08-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/authors/stanislav-i-tomarev/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -4755,6 +4938,12 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/wei/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/tags/western-cell-cycle/drug-effects/physiology-cell-cycle-proteins/metabolism-fluorescent-antibody-technique-hep-g2-cells-humans-hydroxycholesterols/pharmacology-immunoprecipitation-microscopy/</loc>
       <lastmod>2014-04-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -4769,15 +4958,15 @@
   
     <url>
     
-      <loc>https://yz-lab.org/main/authors/x.-bai/</loc>
-      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      <loc>https://yz-lab.org/main/authors/witold-szymanski/</loc>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/authors/x.-du/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <loc>https://yz-lab.org/main/authors/x.-bai/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -4840,7 +5029,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/x.-liu/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-09-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -4910,7 +5099,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/y.-chen/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -5022,14 +5211,14 @@
     <url>
     
       <loc>https://yz-lab.org/main/</loc>
-      <lastmod>2025-04-01T00:00:00+01:00</lastmod>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://yz-lab.org/main/authors/you-zhou/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2025-08-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -5188,55 +5377,19 @@
   
     <url>
     
-      <loc>https://yz-lab.org/main/authors/phd1/</loc>
+      <loc>https://yz-lab.org/main/authors/joel/</loc>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/authors/phd2/</loc>
+      <loc>https://yz-lab.org/main/authors/luyang/</loc>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://yz-lab.org/main/authors/phd3/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/authors/phd4/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/authors/r1/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/authors/r5/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/authors/r6/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/authors/r7/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yz-lab.org/main/authors/visitor/</loc>
+      <loc>https://yz-lab.org/main/authors/shenglei/</loc>
       <priority>0</priority>
     </url>
   
