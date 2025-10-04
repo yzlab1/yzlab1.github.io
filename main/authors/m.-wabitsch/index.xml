@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Wabitsch on YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/m.-wabitsch/</link>
+    <description>Recent content in M. Wabitsch on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://yz-lab.org/&#39;&gt;&amp;copy; YZ Lab {year}&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/authors/m.-wabitsch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Insulin-inducible THRSP maintains mitochondrial function and regulates sphingolipid metabolism in human adipocytes</title>
+      <link>https://yz-lab.org/main/publication/rn-173/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/rn-173/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicroRNA-192* impairs adipocyte triglyceride storage</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1400/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1400/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSBP-Related Proteins (ORPs) in Human Adipose Depots and Cultured Adipocytes: Evidence for Impacts on the Adipocyte Phenotype</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1149/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1149/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

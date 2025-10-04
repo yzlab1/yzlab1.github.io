@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagnostics on YZ Lab</title>
+    <link>https://yz-lab.org/main/tags/diagnostics/</link>
+    <description>Recent content in Diagnostics on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://yz-lab.org/&#39;&gt;&amp;copy; YZ Lab {year}&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/tags/diagnostics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fusion-Guided Multimodal Imaging and Biomarker Platform for Precision Diagnosis</title>
+      <link>https://yz-lab.org/main/project/dldiagnosis/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/project/dldiagnosis/</guid>
+      <description>Deep learning techniques have emerged as powerful tools for medical image diagnosis. However, their application in non-invasive diagnosis remains largely unexplored. Given the limitations of liver biopsy, there is a pressing need for non-invasive methods to accurately diagnose MASH. To address this gap, we aim to develop a deep learning–based, non-invasive, fusion-guided multimodal tool for MASH diagnosis.</description>
+    </item>
+    
+    <item>
+      <title>Complement System: Bridging Immunity and Metabolism</title>
+      <link>https://yz-lab.org/main/project/complement/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/project/complement/</guid>
+      <description>Understanding the Role of the Complement System in Immunometabolism.</description>
+    </item>
+    
+  </channel>
+</rss>

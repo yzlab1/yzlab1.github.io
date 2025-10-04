@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. T. Hu on YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/r.-t.-hu/</link>
+    <description>Recent content in R. T. Hu on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://yz-lab.org/&#39;&gt;&amp;copy; YZ Lab {year}&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/authors/r.-t.-hu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meta-Analysis of Prognostic and Clinical Significance of CD44v6 in Esophageal Cancer</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1391/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1391/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egg consumption and risk of bladder cancer: a meta-analysis</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1245/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1245/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

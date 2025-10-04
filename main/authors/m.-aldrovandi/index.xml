@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Aldrovandi on YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/m.-aldrovandi/</link>
+    <description>Recent content in M. Aldrovandi on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://yz-lab.org/&#39;&gt;&amp;copy; YZ Lab {year}&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/authors/m.-aldrovandi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Metabolic Dysregulation of the Lysophospholipid/Autotaxin Axis in the Chromosome 9p21 Gene SNP rs10757274</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1476/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1476/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specific oxygenation of plasma membrane phospholipids by Pseudomonas aeruginosa lipoxygenase induces structural and functional alterations in mammalian cells</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1438/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1438/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

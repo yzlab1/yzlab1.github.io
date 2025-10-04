@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Kentala on YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/h.-kentala/</link>
+    <description>Recent content in H. Kentala on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://yz-lab.org/&#39;&gt;&amp;copy; YZ Lab {year}&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/authors/h.-kentala/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSBP-related protein-2 (ORP2): a novel Akt effector that controls cellular energy metabolism</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1461/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1461/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of ORP2-knockout hepatocytes uncovers a novel function in actin cytoskeletal regulation</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1456/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1456/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSBP-related protein 3 (ORP3) coupling with VAMP-associated protein A regulates R-Ras activity</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1389/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1389/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

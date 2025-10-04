@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/admin/</link>
+    <description>Recent content in admin on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://yz-lab.org/&#39;&gt;&amp;copy; YZ Lab {year}&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://yz-lab.org/main/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://yz-lab.org/main/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/author/admin/</guid>
+      <description>Overview I am a Senior Lecturer at the Systems Immunity University Research Institute and the Division of Infection &amp;amp; Immunity, Cardiff University, an Adjunct Professor/Docent at the Faculty of Medicine, University of Helsinki and the chair of the British Society for Immunology (BSI) South Wales regional group. Over the course of my career, I have worked for, the World Health Organization, the Finnish National Institute for Health and Welfare, and the Chinese State Key Laboratory of Virology.</description>
+    </item>
+    
+  </channel>
+</rss>

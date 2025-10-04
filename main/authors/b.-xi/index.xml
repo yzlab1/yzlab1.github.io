@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Xi on YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/b.-xi/</link>
+    <description>Recent content in B. Xi on YZ Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://yz-lab.org/&#39;&gt;&amp;copy; YZ Lab {year}&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yz-lab.org/main/authors/b.-xi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Association of GSTM1 null allele with prostate cancer risk: evidence from 36 case-control studies</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1366/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1366/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of hOGG1 Ser326Cys polymorphism on cancer risk: evidence from a meta-analysis</title>
+      <link>https://yz-lab.org/main/publication/ref-works-1151/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/publication/ref-works-1151/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
