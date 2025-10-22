@@ -663,7 +663,7 @@
   
     <url>
     
-      <loc>https://yz-lab.org/main/resources/fab/</loc>
+      <loc>https://yz-lab.org/main/tool/fab/</loc>
     </url>
   
     <url>
@@ -4225,12 +4225,6 @@
   
     <url>
     
-      <loc>https://yz-lab.org/main/resources/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://yz-lab.org/main/authors/riikka-hynynen/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -4762,6 +4756,12 @@
     
       <loc>https://yz-lab.org/main/tags/therapeutics/</loc>
       <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/tool/</loc>
       <priority>0</priority>
     </url>
   
