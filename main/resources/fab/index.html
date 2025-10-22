@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fibroblast Atlas Browser in Osteoarthritis–Obesity</title>
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.26.0/plotly.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        
+        <nav class="navbar">
+            <a href="#" class="nav-brand">🔬 FAB-OAOB</a>
+            <ul class="nav-links">
+                <li><a href="#" class="nav-link active">Fibroblasts</a></li>
+                <li><a href="https://github.com/hvgogogo/obese_OA_dp" target="_blank" class="nav-link">📚 GitHub</a></li>
+                <li><a href="mailto:hangw@cardiff.ac.uk" class="nav-link">📧 Contact</a></li>
+            </ul>
+        </nav>
+
+        
+        <div class="header">
+            <h1> FAB-OAOB</h1>
+            <p>Fibroblast Atlas Browser in Osteoarthritis–Obesity</p>
+        </div>
+
+        
+        <div class="info-grid">
+            <div class="info-card">
+                <h4>🧬 Fibroblast Markers</h4>
+                <div class="info-content">
+                    <strong>Identification:</strong> COL1A1, PDGFRA<br>
+                    <strong>Subtypes:</strong> CLIC5 (lining), THY1 (sub-lining), CD34 (protective), CYBB (inflammatory)
+                </div>
+            </div>
+
+            <div class="info-card">
+                <h4>🔬 Key Findings</h4>
+                <div class="info-content">
+                    <strong>CD34+ Loss:</strong> 54.49% reduced in obese OA<br>
+                    <strong>Pathways:</strong> Hypoxia (HIF1α), Adipogenesis (PPARG), ECM degradation (MMP3/13)
+                </div>
+            </div>
+
+            <div class="info-card">
+                <h4>📊 Quick Guide</h4>
+                <div class="info-content">
+                    <strong>Basic:</strong> Select gene → Update Visualization<br>
+                    <strong>GSEA:</strong> Choose subtype → Load DEGs/Pathways<br>
+                    <strong>Compare:</strong> Obese vs Non-obese, OA vs Healthy
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="module-nav">
+            <h3>📋 Analysis Modules</h3>
+            <div class="module-tabs">
+                <div class="module-tab active" data-module="basic">📊 Basic Analysis</div>
+                <div class="module-tab" data-module="gsea">🧬 GSEA</div>
+                <div class="module-tab" data-module="trajectory">🔄 Cell Trajectory</div>
+                <div class="module-tab" data-module="interaction">🔗 Cell Interaction</div>
+            </div>
+        </div>
+
+        
+        <div class="module-content active" id="basic-module">
+            
+            <div class="controls">
+                <h3>🎛️ Analysis Controls</h3>
+                <div class="controls-row">
+                    <div class="control-group">
+                        <label for="custom-gene">Gene Name:</label>
+                        <div class="gene-input-container">
+                            <input type="text" id="custom-gene" placeholder="Type gene name (e.g., CD34, VIM, COL1A1...)" />
+                            <div id="gene-suggestions"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="control-group">
+                        <label for="grouped-by-select">Grouped By:</label>
+                        <select id="grouped-by-select">
+                            <option value="harmony_annotation">Harmony Annotation</option>
+                            <option value="disease_state">Disease State</option>
+                        </select>
+                    </div>
+                    
+                    <div class="button-hint-container">
+                        <button id="update-btn" onclick="updateVisualization()">Update Visualization</button>
+                        <div id="gene-hint" class="gene-hint"></div>
+                    </div>
+                </div>
+                
+                <div class="controls-help">
+                    <small><strong>Quick genes to try:</strong> CD34, VIM, COL1A1, COL3A1, FN1, ACTA2, PDGFRA, THY1, DCN, LUM, POSTN</small>
+                </div>
+            </div>
+
+            
+            <div class="analysis-grid">
+                <div class="analysis-card">
+                    <h3>📊 UMAP Visualization</h3>
+                    <div id="umap-plot" class="viz-container">
+                        <div class="viz-placeholder">
+                            <div class="loading-spinner"></div>
+                            <p>🔄 Loading UMAP visualization...</p>
+                            <small>Cell clusters and subtypes</small>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="analysis-card">
+                    <h3>📊 Gene Expression</h3>
+                    <div id="gene-expression-plot" class="viz-container">
+                        <div class="viz-placeholder">
+                            <div class="loading-spinner"></div>
+                            <p>🔄 Loading gene expression...</p>
+                            <small>Expression levels on UMAP</small>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="analysis-card">
+                    <h3>🎯 Marker Expression</h3>
+                    <div id="marker-plot" class="viz-container">
+                        <div class="viz-placeholder">
+                            <div class="loading-spinner"></div>
+                            <p>🔄 Loading marker expression...</p>
+                            <small>Expression levels across cell populations</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="module-content" id="gsea-module">
+            
+            <div class="deg-analysis-section">
+                <div class="analysis-card">
+                    <h3>🧬 Differentially Expressed Genes (DEGs)</h3>
+                    <div class="deg-controls">
+                        <div class="control-group">
+                            <label for="deg-subtype">Cell Subtype:</label>
+                            <select id="deg-subtype">
+                                <option value="SLSFs_CD34pos">SLSFs CD34+</option>
+                                <option value="SLSFs_CD34neg">SLSFs CD34-</option>
+                                <option value="LLSFs">LLSFs</option>
+                                <option value="SLSFs_IM">SLSFs IM</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label for="deg-comparison">Comparison:</label>
+                            <select id="deg-comparison">
+                                <option value="weight">Obesity vs Non-obese</option>
+                                <option value="OA">OA vs Non-OA</option>
+                                <option value="obeseOA">Obese-OA vs Healthy</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label for="deg-top-n">Top N genes:</label>
+                            <select id="deg-top-n">
+                                <option value="5">Top 5</option>
+                                <option value="10">Top 10</option>
+                                <option value="20">Top 20</option>
+                                <option value="100">Top 100</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label for="deg-gene-filter">Filter by gene:</label>
+                            <input type="text" id="deg-gene-filter" placeholder="Enter gene name (optional)" />
+                        </div>
+                        <button id="load-deg-btn" onclick="loadDEGData()">Load DEGs</button>
+                    </div>
+                    <div id="deg-table-container" class="deg-table-container">
+                        <div class="viz-placeholder">
+                            <p>📊 Select parameters and click "Load DEGs"</p>
+                            <small>View top differentially expressed genes</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="pathway-table-section">
+                <div class="analysis-card">
+                    <h3>🛤️ Pathway Enrichment Table</h3>
+                    <div class="pathway-controls">
+                        <div class="control-group">
+                            <label for="pathway-subtype">Cell Subtype:</label>
+                            <select id="pathway-subtype">
+                                <option value="SLSFs_CD34pos">SLSFs CD34+</option>
+                                <option value="SLSFs_CD34neg">SLSFs CD34-</option>
+                                <option value="LLSFs">LLSFs</option>
+                                <option value="SLSFs_IM">SLSFs IM</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label for="pathway-comparison">Comparison:</label>
+                            <select id="pathway-comparison">
+                                <option value="weight">Obesity vs Non-obese</option>
+                                <option value="OA">OA vs Non-OA</option>
+                                <option value="obeseOA">Obese-OA vs Healthy</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label for="pathway-top-n">Top N pathways:</label>
+                            <select id="pathway-top-n">
+                                <option value="5">Top 5</option>
+                                <option value="10">Top 10</option>
+                                <option value="20">Top 20</option>
+                                <option value="50">Top 50</option>
+                            </select>
+                        </div>
+                        <div class="control-group">
+                            <label for="pathway-filter">Filter by pathway:</label>
+                            <input type="text" id="pathway-filter" placeholder="Enter pathway name (optional)" />
+                        </div>
+                        <button id="load-pathway-btn" onclick="loadPathwayData()">Load Pathways</button>
+                    </div>
+                    <div id="pathway-table-container" class="deg-table-container">
+                        <div class="viz-placeholder">
+                            <p>📊 Pathway enrichment results will appear here</p>
+                            <small>Load pathway data to view detailed results</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="analysis-card">
+                <h3>📈 Pathway Analysis</h3>
+                <div id="pathway-plot" class="viz-container">
+                    <div class="viz-placeholder">
+                        <div class="loading-spinner"></div>
+                        <p>🔄 Loading pathway analysis...</p>
+                        <small>Select parameters and click "Load Pathways"</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="module-content" id="trajectory-module">
+            
+            <div class="controls">
+                <h3>🎛️ Trajectory Controls</h3>
+                <div class="controls-row">
+                    <div class="control-group">
+                        <label for="trajectory-dataset">Dataset:</label>
+                        <select id="trajectory-dataset">
+                            <option value="Healthy">Healthy</option>
+                            <option value="NW_OA">non-obese OA</option>
+                            <option value="Obese_OA">Obese OA</option>
+                        </select>
+                    </div>
+                    <div class="control-group">
+                        <label for="trajectory-view">View Type:</label>
+                        <select id="trajectory-view">
+                            <option value="state">By State</option>
+                            <option value="celltype">By Cell Type</option>
+                            <option value="pseudotime">By Pseudotime</option>
+                        </select>
+                    </div>
+                    <div class="control-group">
+                        <label for="pseudotime-gene">Gene for Pseudotime:</label>
+                        <input type="text" id="pseudotime-gene" placeholder="Enter gene name (e.g., NOC2L, ISG15...)" />
+                    </div>
+                    <button id="load-trajectory-btn" onclick="loadTrajectoryData()">Load Trajectory</button>
+                </div>
+            </div>
+
+            
+            <div class="analysis-grid">
+                <div class="analysis-card">
+                    <h3>🔄 Trajectory Plot</h3>
+                    <div id="trajectory-plot" class="viz-container">
+                        <div class="viz-placeholder">
+                            <div class="loading-spinner"></div>
+                            <p>📊 Select parameters and click "Load Trajectory"</p>
+                            <small>Interactive trajectory visualization</small>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="analysis-card">
+                    <h3>📊 Density Distribution</h3>
+                    <div id="trajectory-density-plot" class="viz-container">
+                        <div class="viz-placeholder">
+                            <div class="loading-spinner"></div>
+                            <p>📈 Pseudotime density distribution</p>
+                            <small>Cell type distributions across pseudotime</small>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="analysis-card">
+                    <h3>📈 State Proportions</h3>
+                    <div id="trajectory-proportion-plot" class="viz-container">
+                        <div class="viz-placeholder">
+                            <div class="loading-spinner"></div>
+                            <p>📊 Cell type proportions across states</p>
+                            <small>How cell types change along trajectory</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="analysis-card">
+                <h3>⏰ Pseudotime Gene Expression</h3>
+                <div id="pseudotime-analysis-plot" class="viz-container">
+                    <div class="viz-placeholder">
+                        <div class="loading-spinner"></div>
+                        <p>📊 Pseudotime gene expression analysis</p>
+                        <small>Gene expression changes over pseudotime</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="module-content" id="interaction-module">
+            <div class="controls">
+                <h3>🎛️ Interaction Controls</h3>
+                <div class="controls-row">
+                    <div class="control-group">
+                        <label for="interaction-type">Analysis Type:</label>
+                        <select id="interaction-type">
+                            <option value="increased">Increased Signaling</option>
+                            <option value="decreased">Decreased Signaling</option>
+                        </select>
+                    </div>
+                    <div class="control-group">
+                        <label for="interaction-top-n">Top N interactions:</label>
+                        <select id="interaction-top-n">
+                            <option value="10">Top 10</option>
+                            <option value="20">Top 20</option>
+                            <option value="50">Top 50</option>
+                            <option value="100">Top 100</option>
+                        </select>
+                    </div>
+                    <button id="load-interaction-btn" onclick="loadInteractionData()">Load Interaction</button>
+                </div>
+            </div>
+
+            <div class="analysis-card">
+                <h3>📊 Interaction Table</h3>
+                <div id="interaction-table-container" class="deg-table-container">
+                    <div class="viz-placeholder">
+                        <p>📊 Interaction data table will appear here</p>
+                        <small>Load interaction data to view detailed results</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="analysis-card">
+                <h3>🔗 Cell-Cell Interaction Analysis</h3>
+                <div id="interaction-plot" class="viz-container">
+                    <div class="viz-placeholder">
+                        <div class="loading-spinner"></div>
+                        <p>📊 Select analysis type and click "Load Interaction"</p>
+                        <small>Interactive cell communication analysis</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <footer class="footer">
+        Any issue? please contact: <a href="mailto:hangw@cardiff.ac.uk">hangw@cardiff.ac.uk</a>
+    </footer>
+
+    
+    <script src="fibroblasts.js"></script>
+    
+    <script>
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            const moduleTabs = document.querySelectorAll('.module-tab');
+            const moduleContents = document.querySelectorAll('.module-content');
+
+            moduleTabs.forEach(tab => {
+                tab.addEventListener('click', function() {
+                    const targetModule = this.getAttribute('data-module');
+                    
+                    
+                    moduleTabs.forEach(t => t.classList.remove('active'));
+                    moduleContents.forEach(c => c.classList.remove('active'));
+                    
+                    
+                    this.classList.add('active');
+                    const targetContent = document.getElementById(targetModule + '-module');
+                    if (targetContent) {
+                        targetContent.classList.add('active');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
