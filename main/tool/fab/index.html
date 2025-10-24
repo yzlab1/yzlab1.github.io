@@ -12,24 +12,35 @@
     
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <div class="container">
-        
-        <nav class="navbar">
-            <a href="#" class="nav-brand">🔬 FAB-OAOB</a>
-            <ul class="nav-links">
-                <li><a href="#" class="nav-link active">Fibroblasts</a></li>
-                <li><a href="https://github.com/hvgogogo/obese_OA_dp" target="_blank" class="nav-link">📚 GitHub</a></li>
-                <li><a href="mailto:hangw@cardiff.ac.uk" class="nav-link">📧 Contact</a></li>
-            </ul>
-        </nav>
+        <div style="display: flex; align-items: center; padding: 1rem 2rem; gap: 2rem;">
+            
+            <nav style="flex: 1; display: flex; align-items: center; justify-content: space-between; background: white; padding: 1rem 2rem; border-radius: 25px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                
+                <a href="#" style="text-decoration: none; display: flex; align-items: center;">
+                    <img src="https://raw.githubusercontent.com/hvgogogo/obese_OA_dp/main/data/Logo_FAB2.png" 
+                        alt="FAB-OAOB" 
+                        style="width: 40px; height: 40px; object-fit: contain; filter: drop-shadow(0 2px 8px rgba(0,0,0,0.3)); margin-right: 10px;">
+                    <span style="font-weight: bold; color: #5daba8; font-size: 1.2rem;">FAB-OAOB</span>
+                </a>
+                
+                
+                <ul class="nav-links" style="margin: 0;"> 
+                    <li><a href="#analysis-modules" class="nav-link">📋 Analysis Modules</a></li>
+                    <li><a href="https://github.com/hvgogogo/obese_OA_dp" target="_blank" class="nav-link">📚 GitHub</a></li>
+                    <li><a href="https://yz-lab.org/" target="_blank" class="nav-link">🔗 Link</a></li>
+                </ul>
+            </nav>
+        </div>
 
         
         <div class="header">
             <h1> FAB-OAOB</h1>
             <p>Fibroblast Atlas Browser in Osteoarthritis–Obesity</p>
         </div>
-
+        
         
         <div class="info-grid">
             <div class="info-card">
@@ -59,7 +70,7 @@
         </div>
 
         
-        <div class="module-nav">
+        <div class="module-nav" id="analysis-modules">
             <h3>📋 Analysis Modules</h3>
             <div class="module-tabs">
                 <div class="module-tab active" data-module="basic">📊 Basic Analysis</div>
@@ -375,7 +386,7 @@
 
     
     <footer class="footer">
-        Any issue? please contact: <a href="mailto:hangw@cardiff.ac.uk">hangw@cardiff.ac.uk</a>
+        Any issue? please contact: <a href="mailto:ZhouY58@cardiff.ac.uk">ZhouY58@cardiff.ac.uk</a> or <a href="mailto:hangw@cardiff.ac.uk">hangw@cardiff.ac.uk</a>
     </footer>
 
     
