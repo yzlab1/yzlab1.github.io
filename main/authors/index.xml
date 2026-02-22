@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#39;https://yz-lab.org/&#39;&gt;&amp;copy; YZ Lab {year}&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2012 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yz-lab.org/main/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,18 +22,9 @@
     </item>
     
     <item>
-      <title> Isabel Espadas</title>
-      <link>https://yz-lab.org/main/authors/-isabel-espadas/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/-isabel-espadas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> Nan-He</title>
       <link>https://yz-lab.org/main/authors/-nan-he/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/-nan-he/</guid>
       <description></description>
@@ -42,7 +33,7 @@
     <item>
       <title> Wei-Chen</title>
       <link>https://yz-lab.org/main/authors/-wei-chen/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/-wei-chen/</guid>
       <description></description>
@@ -78,7 +69,7 @@
     <item>
       <title>A. Ali</title>
       <link>https://yz-lab.org/main/authors/a.-ali/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-ali/</guid>
       <description></description>
@@ -90,15 +81,6 @@
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-arora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. B. Crujeiras</title>
-      <link>https://yz-lab.org/main/authors/a.-b.-crujeiras/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/a.-b.-crujeiras/</guid>
       <description></description>
     </item>
     
@@ -141,7 +123,7 @@
     <item>
       <title>A. Castells-Nobau</title>
       <link>https://yz-lab.org/main/authors/a.-castells-nobau/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-castells-nobau/</guid>
       <description></description>
@@ -186,7 +168,7 @@
     <item>
       <title>A. Gastaldelli</title>
       <link>https://yz-lab.org/main/authors/a.-gastaldelli/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-gastaldelli/</guid>
       <description></description>
@@ -213,7 +195,7 @@
     <item>
       <title>A. Hakkarainen</title>
       <link>https://yz-lab.org/main/authors/a.-hakkarainen/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-hakkarainen/</guid>
       <description></description>
@@ -238,9 +220,18 @@
     </item>
     
     <item>
+      <title>A. I. Domingos</title>
+      <link>https://yz-lab.org/main/authors/a.-i.-domingos/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/a.-i.-domingos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A. J. Engler</title>
       <link>https://yz-lab.org/main/authors/a.-j.-engler/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-j.-engler/</guid>
       <description></description>
@@ -267,7 +258,7 @@
     <item>
       <title>A. Juuti</title>
       <link>https://yz-lab.org/main/authors/a.-juuti/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-juuti/</guid>
       <description></description>
@@ -276,7 +267,7 @@
     <item>
       <title>A. K. Penttila</title>
       <link>https://yz-lab.org/main/authors/a.-k.-penttila/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-k.-penttila/</guid>
       <description></description>
@@ -330,7 +321,7 @@
     <item>
       <title>A. Lluch</title>
       <link>https://yz-lab.org/main/authors/a.-lluch/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-lluch/</guid>
       <description></description>
@@ -366,7 +357,7 @@
     <item>
       <title>A. Martin-Montalvo</title>
       <link>https://yz-lab.org/main/authors/a.-martin-montalvo/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-martin-montalvo/</guid>
       <description></description>
@@ -375,7 +366,7 @@
     <item>
       <title>A. Nick</title>
       <link>https://yz-lab.org/main/authors/a.-nick/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-nick/</guid>
       <description></description>
@@ -384,7 +375,7 @@
     <item>
       <title>A. O&#39;Connor</title>
       <link>https://yz-lab.org/main/authors/a.-oconnor/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-oconnor/</guid>
       <description></description>
@@ -393,7 +384,7 @@
     <item>
       <title>A. P. Sarin</title>
       <link>https://yz-lab.org/main/authors/a.-p.-sarin/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-p.-sarin/</guid>
       <description></description>
@@ -420,7 +411,7 @@
     <item>
       <title>A. Rissanen</title>
       <link>https://yz-lab.org/main/authors/a.-rissanen/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-rissanen/</guid>
       <description></description>
@@ -429,7 +420,7 @@
     <item>
       <title>A. Salonen</title>
       <link>https://yz-lab.org/main/authors/a.-salonen/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-salonen/</guid>
       <description></description>
@@ -447,7 +438,7 @@
     <item>
       <title>A. Slita</title>
       <link>https://yz-lab.org/main/authors/a.-slita/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-slita/</guid>
       <description></description>
@@ -474,7 +465,7 @@
     <item>
       <title>A. Verrijken</title>
       <link>https://yz-lab.org/main/authors/a.-verrijken/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-verrijken/</guid>
       <description></description>
@@ -483,43 +474,25 @@
     <item>
       <title>A. di Costanzo</title>
       <link>https://yz-lab.org/main/authors/a.-di-costanzo/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/a.-di-costanzo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Aina Lluch</title>
-      <link>https://yz-lab.org/main/authors/aina-lluch/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>Anna Castells‐Nobau</title>
+      <link>https://yz-lab.org/main/authors/anna-castellsnobau/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/aina-lluch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alejandro Martín-Montalvo</title>
-      <link>https://yz-lab.org/main/authors/alejandro-mart%C3%ADn-montalvo/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/alejandro-mart%C3%ADn-montalvo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ana I Domingos</title>
-      <link>https://yz-lab.org/main/authors/ana-i-domingos/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/ana-i-domingos/</guid>
+      <guid>https://yz-lab.org/main/authors/anna-castellsnobau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Hu</title>
       <link>https://yz-lab.org/main/authors/b.-hu/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/b.-hu/</guid>
       <description></description>
@@ -546,7 +519,7 @@
     <item>
       <title>B. Kayser</title>
       <link>https://yz-lab.org/main/authors/b.-kayser/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/b.-kayser/</guid>
       <description></description>
@@ -573,7 +546,7 @@
     <item>
       <title>B. Song</title>
       <link>https://yz-lab.org/main/authors/b.-song/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/b.-song/</guid>
       <description></description>
@@ -627,7 +600,7 @@
     <item>
       <title>Birong Zhang</title>
       <link>https://yz-lab.org/main/authors/birong-zhang/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/birong-zhang/</guid>
       <description></description>
@@ -639,15 +612,6 @@
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/c.-d.-lucas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Dieguez</title>
-      <link>https://yz-lab.org/main/authors/c.-dieguez/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/c.-dieguez/</guid>
       <description></description>
     </item>
     
@@ -670,18 +634,9 @@
     </item>
     
     <item>
-      <title>C. Gutierrez-Repiso</title>
-      <link>https://yz-lab.org/main/authors/c.-gutierrez-repiso/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/c.-gutierrez-repiso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>C. Hinz</title>
       <link>https://yz-lab.org/main/authors/c.-hinz/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/c.-hinz/</guid>
       <description></description>
@@ -699,7 +654,7 @@
     <item>
       <title>C. Jian</title>
       <link>https://yz-lab.org/main/authors/c.-jian/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/c.-jian/</guid>
       <description></description>
@@ -726,7 +681,7 @@
     <item>
       <title>C. Lof</title>
       <link>https://yz-lab.org/main/authors/c.-lof/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/c.-lof/</guid>
       <description></description>
@@ -769,6 +724,15 @@
     </item>
     
     <item>
+      <title>C. Shen*</title>
+      <link>https://yz-lab.org/main/authors/c.-shen/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/c.-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>C. Shi</title>
       <link>https://yz-lab.org/main/authors/c.-shi/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -798,7 +762,7 @@
     <item>
       <title>C. Thiele</title>
       <link>https://yz-lab.org/main/authors/c.-thiele/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/c.-thiele/</guid>
       <description></description>
@@ -807,7 +771,7 @@
     <item>
       <title>C. W. He</title>
       <link>https://yz-lab.org/main/authors/c.-w.-he/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/c.-w.-he/</guid>
       <description></description>
@@ -843,7 +807,7 @@
     <item>
       <title>D. A. Slatter</title>
       <link>https://yz-lab.org/main/authors/d.-a.-slatter/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/d.-a.-slatter/</guid>
       <description></description>
@@ -861,7 +825,7 @@
     <item>
       <title>D. Bonnefont-Rousselot</title>
       <link>https://yz-lab.org/main/authors/d.-bonnefont-rousselot/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/d.-bonnefont-rousselot/</guid>
       <description></description>
@@ -906,7 +870,7 @@
     <item>
       <title>D. Guo</title>
       <link>https://yz-lab.org/main/authors/d.-guo/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/d.-guo/</guid>
       <description></description>
@@ -996,7 +960,7 @@
     <item>
       <title>D. Lu</title>
       <link>https://yz-lab.org/main/authors/d.-lu/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/d.-lu/</guid>
       <description></description>
@@ -1023,7 +987,7 @@
     <item>
       <title>D. N. Chen</title>
       <link>https://yz-lab.org/main/authors/d.-n.-chen/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/d.-n.-chen/</guid>
       <description></description>
@@ -1050,7 +1014,7 @@
     <item>
       <title>D. Schuppan</title>
       <link>https://yz-lab.org/main/authors/d.-schuppan/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/d.-schuppan/</guid>
       <description></description>
@@ -1059,7 +1023,7 @@
     <item>
       <title>D. White</title>
       <link>https://yz-lab.org/main/authors/d.-white/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/d.-white/</guid>
       <description></description>
@@ -1068,7 +1032,7 @@
     <item>
       <title>D. Yan</title>
       <link>https://yz-lab.org/main/authors/d.-yan/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/d.-yan/</guid>
       <description></description>
@@ -1077,7 +1041,7 @@
     <item>
       <title>D. Zhou</title>
       <link>https://yz-lab.org/main/authors/d.-zhou/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/d.-zhou/</guid>
       <description></description>
@@ -1095,18 +1059,27 @@
     <item>
       <title>E. Bugianesi</title>
       <link>https://yz-lab.org/main/authors/e.-bugianesi/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/e.-bugianesi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>E. Castro</title>
-      <link>https://yz-lab.org/main/authors/e.-castro/</link>
+      <title>E. Caballano-Infantes</title>
+      <link>https://yz-lab.org/main/authors/e.-caballano-infantes/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/e.-castro/</guid>
+      <guid>https://yz-lab.org/main/authors/e.-caballano-infantes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Chicano</title>
+      <link>https://yz-lab.org/main/authors/e.-chicano/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/e.-chicano/</guid>
       <description></description>
     </item>
     
@@ -1131,7 +1104,7 @@
     <item>
       <title>E. Isokuortti</title>
       <link>https://yz-lab.org/main/authors/e.-isokuortti/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/e.-isokuortti/</guid>
       <description></description>
@@ -1158,7 +1131,7 @@
     <item>
       <title>E. Korpi-Hyovalti</title>
       <link>https://yz-lab.org/main/authors/e.-korpi-hyovalti/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/e.-korpi-hyovalti/</guid>
       <description></description>
@@ -1176,7 +1149,7 @@
     <item>
       <title>E. M. Petaja</title>
       <link>https://yz-lab.org/main/authors/e.-m.-petaja/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/e.-m.-petaja/</guid>
       <description></description>
@@ -1185,7 +1158,7 @@
     <item>
       <title>E. Scott</title>
       <link>https://yz-lab.org/main/authors/e.-scott/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/e.-scott/</guid>
       <description></description>
@@ -1201,20 +1174,11 @@
     </item>
     
     <item>
-      <title>Eduardo Chicano</title>
-      <link>https://yz-lab.org/main/authors/eduardo-chicano/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>Ernesto Castro</title>
+      <link>https://yz-lab.org/main/authors/ernesto-castro/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/eduardo-chicano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estefanía Caballano-Infantes</title>
-      <link>https://yz-lab.org/main/authors/estefan%C3%ADa-caballano-infantes/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/estefan%C3%ADa-caballano-infantes/</guid>
+      <guid>https://yz-lab.org/main/authors/ernesto-castro/</guid>
       <description></description>
     </item>
     
@@ -1224,6 +1188,15 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/f.-beuron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Chen</title>
+      <link>https://yz-lab.org/main/authors/f.-chen/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/f.-chen/</guid>
       <description></description>
     </item>
     
@@ -1264,15 +1237,6 @@
     </item>
     
     <item>
-      <title>F. J. Tinahones</title>
-      <link>https://yz-lab.org/main/authors/f.-j.-tinahones/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/f.-j.-tinahones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>F. Li</title>
       <link>https://yz-lab.org/main/authors/f.-li/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -1284,7 +1248,7 @@
     <item>
       <title>F. Palmas</title>
       <link>https://yz-lab.org/main/authors/f.-palmas/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/f.-palmas/</guid>
       <description></description>
@@ -1302,7 +1266,7 @@
     <item>
       <title>F. Xuan</title>
       <link>https://yz-lab.org/main/authors/f.-xuan/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/f.-xuan/</guid>
       <description></description>
@@ -1318,27 +1282,18 @@
     </item>
     
     <item>
-      <title>Francisco J Ortega</title>
-      <link>https://yz-lab.org/main/authors/francisco-j-ortega/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/francisco-j-ortega/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Fruhbeck</title>
-      <link>https://yz-lab.org/main/authors/g.-fruhbeck/</link>
+      <title>Francisco José Ortega</title>
+      <link>https://yz-lab.org/main/authors/francisco-jos%C3%A9-ortega/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/g.-fruhbeck/</guid>
+      <guid>https://yz-lab.org/main/authors/francisco-jos%C3%A9-ortega/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. H. Huang</title>
       <link>https://yz-lab.org/main/authors/g.-h.-huang/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/g.-h.-huang/</guid>
       <description></description>
@@ -1381,6 +1336,15 @@
     </item>
     
     <item>
+      <title>G. Sarker</title>
+      <link>https://yz-lab.org/main/authors/g.-sarker/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/g.-sarker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>G. Schmitz</title>
       <link>https://yz-lab.org/main/authors/g.-schmitz/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -1410,25 +1374,16 @@
     <item>
       <title>G. Wohlfahrt</title>
       <link>https://yz-lab.org/main/authors/g.-wohlfahrt/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/g.-wohlfahrt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gitalee Sarker</title>
-      <link>https://yz-lab.org/main/authors/gitalee-sarker/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/gitalee-sarker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>H. Bian</title>
       <link>https://yz-lab.org/main/authors/h.-bian/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-bian/</guid>
       <description></description>
@@ -1446,7 +1401,7 @@
     <item>
       <title>H. D. Lin</title>
       <link>https://yz-lab.org/main/authors/h.-d.-lin/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-d.-lin/</guid>
       <description></description>
@@ -1464,7 +1419,7 @@
     <item>
       <title>H. Gylling</title>
       <link>https://yz-lab.org/main/authors/h.-gylling/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-gylling/</guid>
       <description></description>
@@ -1482,7 +1437,7 @@
     <item>
       <title>H. Jiang</title>
       <link>https://yz-lab.org/main/authors/h.-jiang/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-jiang/</guid>
       <description></description>
@@ -1518,7 +1473,7 @@
     <item>
       <title>H. Li</title>
       <link>https://yz-lab.org/main/authors/h.-li/</link>
-      <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-li/</guid>
       <description></description>
@@ -1536,7 +1491,7 @@
     <item>
       <title>H. M. Yan</title>
       <link>https://yz-lab.org/main/authors/h.-m.-yan/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-m.-yan/</guid>
       <description></description>
@@ -1545,7 +1500,7 @@
     <item>
       <title>H. Ma</title>
       <link>https://yz-lab.org/main/authors/h.-ma/</link>
-      <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-ma/</guid>
       <description></description>
@@ -1563,7 +1518,7 @@
     <item>
       <title>H. Oksa</title>
       <link>https://yz-lab.org/main/authors/h.-oksa/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-oksa/</guid>
       <description></description>
@@ -1572,7 +1527,7 @@
     <item>
       <title>H. Ruhanen</title>
       <link>https://yz-lab.org/main/authors/h.-ruhanen/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-ruhanen/</guid>
       <description></description>
@@ -1581,7 +1536,7 @@
     <item>
       <title>H. Sammalkorpi</title>
       <link>https://yz-lab.org/main/authors/h.-sammalkorpi/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-sammalkorpi/</guid>
       <description></description>
@@ -1590,7 +1545,7 @@
     <item>
       <title>H. Savolainen-Peltonen</title>
       <link>https://yz-lab.org/main/authors/h.-savolainen-peltonen/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-savolainen-peltonen/</guid>
       <description></description>
@@ -1608,7 +1563,16 @@
     <item>
       <title>H. Wang</title>
       <link>https://yz-lab.org/main/authors/h.-wang/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/h.-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Wang*</title>
+      <link>https://yz-lab.org/main/authors/h.-wang/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-wang/</guid>
       <description></description>
@@ -1653,9 +1617,18 @@
     <item>
       <title>H. Zhou</title>
       <link>https://yz-lab.org/main/authors/h.-zhou/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/h.-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongyu Wang</title>
+      <link>https://yz-lab.org/main/authors/hongyu-wang/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/hongyu-wang/</guid>
       <description></description>
     </item>
     
@@ -1671,7 +1644,7 @@
     <item>
       <title>I. Espadas</title>
       <link>https://yz-lab.org/main/authors/i.-espadas/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/i.-espadas/</guid>
       <description></description>
@@ -1687,9 +1660,18 @@
     </item>
     
     <item>
+      <title>I. Gonzalez-Garcia</title>
+      <link>https://yz-lab.org/main/authors/i.-gonzalez-garcia/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/i.-gonzalez-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>I. Minicocci</title>
       <link>https://yz-lab.org/main/authors/i.-minicocci/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/i.-minicocci/</guid>
       <description></description>
@@ -1698,7 +1680,7 @@
     <item>
       <title>I. Paatero</title>
       <link>https://yz-lab.org/main/authors/i.-paatero/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/i.-paatero/</guid>
       <description></description>
@@ -1741,15 +1723,6 @@
     </item>
     
     <item>
-      <title>Ismael González-García</title>
-      <link>https://yz-lab.org/main/authors/ismael-gonz%C3%A1lez-garc%C3%ADa/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/ismael-gonz%C3%A1lez-garc%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>J. A. Ward</title>
       <link>https://yz-lab.org/main/authors/j.-a.-ward/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -1761,7 +1734,7 @@
     <item>
       <title>J. Acharya</title>
       <link>https://yz-lab.org/main/authors/j.-acharya/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-acharya/</guid>
       <description></description>
@@ -1770,7 +1743,7 @@
     <item>
       <title>J. Alvarez-Jarreta</title>
       <link>https://yz-lab.org/main/authors/j.-alvarez-jarreta/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-alvarez-jarreta/</guid>
       <description></description>
@@ -1779,7 +1752,7 @@
     <item>
       <title>J. Aoki</title>
       <link>https://yz-lab.org/main/authors/j.-aoki/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-aoki/</guid>
       <description></description>
@@ -1788,7 +1761,7 @@
     <item>
       <title>J. Arola</title>
       <link>https://yz-lab.org/main/authors/j.-arola/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-arola/</guid>
       <description></description>
@@ -1806,7 +1779,7 @@
     <item>
       <title>J. Chen</title>
       <link>https://yz-lab.org/main/authors/j.-chen/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-chen/</guid>
       <description></description>
@@ -1815,7 +1788,7 @@
     <item>
       <title>J. Cooper</title>
       <link>https://yz-lab.org/main/authors/j.-cooper/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-cooper/</guid>
       <description></description>
@@ -1824,7 +1797,7 @@
     <item>
       <title>J. Dalli</title>
       <link>https://yz-lab.org/main/authors/j.-dalli/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-dalli/</guid>
       <description></description>
@@ -1842,7 +1815,7 @@
     <item>
       <title>J. F. Lu</title>
       <link>https://yz-lab.org/main/authors/j.-f.-lu/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-f.-lu/</guid>
       <description></description>
@@ -1858,11 +1831,11 @@
     </item>
     
     <item>
-      <title>J. Gomez-Ambrosi</title>
-      <link>https://yz-lab.org/main/authors/j.-gomez-ambrosi/</link>
+      <title>J. Graumann</title>
+      <link>https://yz-lab.org/main/authors/j.-graumann/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/j.-gomez-ambrosi/</guid>
+      <guid>https://yz-lab.org/main/authors/j.-graumann/</guid>
       <description></description>
     </item>
     
@@ -1876,9 +1849,18 @@
     </item>
     
     <item>
+      <title>J. Hu*</title>
+      <link>https://yz-lab.org/main/authors/j.-hu/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/j.-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>J. Hyysalo</title>
       <link>https://yz-lab.org/main/authors/j.-hyysalo/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-hyysalo/</guid>
       <description></description>
@@ -1887,7 +1869,7 @@
     <item>
       <title>J. I. Hawksworth</title>
       <link>https://yz-lab.org/main/authors/j.-i.-hawksworth/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-i.-hawksworth/</guid>
       <description></description>
@@ -1896,7 +1878,7 @@
     <item>
       <title>J. I. Rodriguez-Hermosa</title>
       <link>https://yz-lab.org/main/authors/j.-i.-rodriguez-hermosa/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-i.-rodriguez-hermosa/</guid>
       <description></description>
@@ -1905,7 +1887,7 @@
     <item>
       <title>J. Ihalainen</title>
       <link>https://yz-lab.org/main/authors/j.-ihalainen/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-ihalainen/</guid>
       <description></description>
@@ -1939,18 +1921,18 @@
     </item>
     
     <item>
-      <title>J. L. Romero-Cabrera</title>
-      <link>https://yz-lab.org/main/authors/j.-l.-romero-cabrera/</link>
+      <title>J. L. Labandeira-Garcia</title>
+      <link>https://yz-lab.org/main/authors/j.-l.-labandeira-garcia/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/j.-l.-romero-cabrera/</guid>
+      <guid>https://yz-lab.org/main/authors/j.-l.-labandeira-garcia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Latorre</title>
       <link>https://yz-lab.org/main/authors/j.-latorre/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-latorre/</guid>
       <description></description>
@@ -1986,18 +1968,18 @@
     <item>
       <title>J. Liu</title>
       <link>https://yz-lab.org/main/authors/j.-liu/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-liu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J. Lopez-Miranda</title>
-      <link>https://yz-lab.org/main/authors/j.-lopez-miranda/</link>
+      <title>J. Lopez-Alcala</title>
+      <link>https://yz-lab.org/main/authors/j.-lopez-alcala/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/j.-lopez-miranda/</guid>
+      <guid>https://yz-lab.org/main/authors/j.-lopez-alcala/</guid>
       <description></description>
     </item>
     
@@ -2022,7 +2004,7 @@
     <item>
       <title>J. M. Lacorte</title>
       <link>https://yz-lab.org/main/authors/j.-m.-lacorte/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-m.-lacorte/</guid>
       <description></description>
@@ -2049,7 +2031,7 @@
     <item>
       <title>J. M. Palmer</title>
       <link>https://yz-lab.org/main/authors/j.-m.-palmer/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-m.-palmer/</guid>
       <description></description>
@@ -2058,25 +2040,16 @@
     <item>
       <title>J. M. Schattenberg</title>
       <link>https://yz-lab.org/main/authors/j.-m.-schattenberg/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-m.-schattenberg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J. Mayneris-Perxachs</title>
-      <link>https://yz-lab.org/main/authors/j.-mayneris-perxachs/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/j.-mayneris-perxachs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>J. Metso</title>
       <link>https://yz-lab.org/main/authors/j.-metso/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-metso/</guid>
       <description></description>
@@ -2085,7 +2058,7 @@
     <item>
       <title>J. Mitchell</title>
       <link>https://yz-lab.org/main/authors/j.-mitchell/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-mitchell/</guid>
       <description></description>
@@ -2121,7 +2094,7 @@
     <item>
       <title>J. Paavola</title>
       <link>https://yz-lab.org/main/authors/j.-paavola/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-paavola/</guid>
       <description></description>
@@ -2130,7 +2103,7 @@
     <item>
       <title>J. Partanen</title>
       <link>https://yz-lab.org/main/authors/j.-partanen/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-partanen/</guid>
       <description></description>
@@ -2148,7 +2121,7 @@
     <item>
       <title>J. Perttila</title>
       <link>https://yz-lab.org/main/authors/j.-perttila/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-perttila/</guid>
       <description></description>
@@ -2157,7 +2130,7 @@
     <item>
       <title>J. Pihlajamaki</title>
       <link>https://yz-lab.org/main/authors/j.-pihlajamaki/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-pihlajamaki/</guid>
       <description></description>
@@ -2182,6 +2155,15 @@
     </item>
     
     <item>
+      <title>J. Porschke</title>
+      <link>https://yz-lab.org/main/authors/j.-porschke/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/j.-porschke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>J. Qi</title>
       <link>https://yz-lab.org/main/authors/j.-qi/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -2193,7 +2175,7 @@
     <item>
       <title>J. Rosenholm</title>
       <link>https://yz-lab.org/main/authors/j.-rosenholm/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-rosenholm/</guid>
       <description></description>
@@ -2211,7 +2193,7 @@
     <item>
       <title>J. Saltevo</title>
       <link>https://yz-lab.org/main/authors/j.-saltevo/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-saltevo/</guid>
       <description></description>
@@ -2238,7 +2220,7 @@
     <item>
       <title>J. Soronen</title>
       <link>https://yz-lab.org/main/authors/j.-soronen/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-soronen/</guid>
       <description></description>
@@ -2310,7 +2292,7 @@
     <item>
       <title>J. Williams</title>
       <link>https://yz-lab.org/main/authors/j.-williams/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-williams/</guid>
       <description></description>
@@ -2328,7 +2310,7 @@
     <item>
       <title>J. X. Liu</title>
       <link>https://yz-lab.org/main/authors/j.-x.-liu/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-x.-liu/</guid>
       <description></description>
@@ -2355,63 +2337,36 @@
     <item>
       <title>J. Zhang</title>
       <link>https://yz-lab.org/main/authors/j.-zhang/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/j.-zhang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jaime López-Alcalá</title>
-      <link>https://yz-lab.org/main/authors/jaime-l%C3%B3pez-alcal%C3%A1/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>Javier Gómez‐Ambrosi</title>
+      <link>https://yz-lab.org/main/authors/javier-g%C3%B3mezambrosi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/jaime-l%C3%B3pez-alcal%C3%A1/</guid>
+      <guid>https://yz-lab.org/main/authors/javier-g%C3%B3mezambrosi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Johanna Pörschke</title>
-      <link>https://yz-lab.org/main/authors/johanna-p%C3%B6rschke/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>Jose Ignacio Rodriguez‐Hermosa</title>
+      <link>https://yz-lab.org/main/authors/jose-ignacio-rodriguezhermosa/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/johanna-p%C3%B6rschke/</guid>
+      <guid>https://yz-lab.org/main/authors/jose-ignacio-rodriguezhermosa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Johannes Graumann</title>
-      <link>https://yz-lab.org/main/authors/johannes-graumann/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>José Maria Moreno‐Navarrete</title>
+      <link>https://yz-lab.org/main/authors/jos%C3%A9-maria-morenonavarrete/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/johannes-graumann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>José L Labandeira-García</title>
-      <link>https://yz-lab.org/main/authors/jos%C3%A9-l-labandeira-garc%C3%ADa/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/jos%C3%A9-l-labandeira-garc%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>José M Fernández-Real</title>
-      <link>https://yz-lab.org/main/authors/jos%C3%A9-m-fern%C3%A1ndez-real/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/jos%C3%A9-m-fern%C3%A1ndez-real/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>José M Moreno-Navarrete</title>
-      <link>https://yz-lab.org/main/authors/jos%C3%A9-m-moreno-navarrete/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/jos%C3%A9-m-moreno-navarrete/</guid>
+      <guid>https://yz-lab.org/main/authors/jos%C3%A9-maria-morenonavarrete/</guid>
       <description></description>
     </item>
     
@@ -2421,15 +2376,6 @@
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/julia-perttil%C3%A4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jèssica Latorre</title>
-      <link>https://yz-lab.org/main/authors/j%C3%A8ssica-latorre/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/j%C3%A8ssica-latorre/</guid>
       <description></description>
     </item>
     
@@ -2445,7 +2391,7 @@
     <item>
       <title>K. Clement</title>
       <link>https://yz-lab.org/main/authors/k.-clement/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/k.-clement/</guid>
       <description></description>
@@ -2490,7 +2436,7 @@
     <item>
       <title>K. J. Lan</title>
       <link>https://yz-lab.org/main/authors/k.-j.-lan/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/k.-j.-lan/</guid>
       <description></description>
@@ -2517,7 +2463,7 @@
     <item>
       <title>K. Kano</title>
       <link>https://yz-lab.org/main/authors/k.-kano/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/k.-kano/</guid>
       <description></description>
@@ -2535,7 +2481,7 @@
     <item>
       <title>K. Li</title>
       <link>https://yz-lab.org/main/authors/k.-li/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/k.-li/</guid>
       <description></description>
@@ -2571,7 +2517,7 @@
     <item>
       <title>K. Tornquist</title>
       <link>https://yz-lab.org/main/authors/k.-tornquist/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/k.-tornquist/</guid>
       <description></description>
@@ -2589,7 +2535,7 @@
     <item>
       <title>K. Wei</title>
       <link>https://yz-lab.org/main/authors/k.-wei/</link>
-      <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/k.-wei/</guid>
       <description></description>
@@ -2598,7 +2544,7 @@
     <item>
       <title>K. Zhang</title>
       <link>https://yz-lab.org/main/authors/k.-zhang/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/k.-zhang/</guid>
       <description></description>
@@ -2616,7 +2562,7 @@
     <item>
       <title>L. Ahonen</title>
       <link>https://yz-lab.org/main/authors/l.-ahonen/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-ahonen/</guid>
       <description></description>
@@ -2634,7 +2580,7 @@
     <item>
       <title>L. D&#39;Erasmo</title>
       <link>https://yz-lab.org/main/authors/l.-derasmo/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-derasmo/</guid>
       <description></description>
@@ -2650,15 +2596,6 @@
     </item>
     
     <item>
-      <title>L. Garrido-Sanchez</title>
-      <link>https://yz-lab.org/main/authors/l.-garrido-sanchez/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/l.-garrido-sanchez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>L. Glendinning</title>
       <link>https://yz-lab.org/main/authors/l.-glendinning/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -2670,7 +2607,7 @@
     <item>
       <title>L. Groop</title>
       <link>https://yz-lab.org/main/authors/l.-groop/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-groop/</guid>
       <description></description>
@@ -2679,7 +2616,7 @@
     <item>
       <title>L. Hodson</title>
       <link>https://yz-lab.org/main/authors/l.-hodson/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-hodson/</guid>
       <description></description>
@@ -2691,15 +2628,6 @@
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-karhinen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. Li</title>
-      <link>https://yz-lab.org/main/authors/l.-li/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/l.-li/</guid>
       <description></description>
     </item>
     
@@ -2718,15 +2646,6 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-m.-booty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. M. Seoane</title>
-      <link>https://yz-lab.org/main/authors/l.-m.-seoane/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/l.-m.-seoane/</guid>
       <description></description>
     </item>
     
@@ -2751,7 +2670,7 @@
     <item>
       <title>L. Moilanen</title>
       <link>https://yz-lab.org/main/authors/l.-moilanen/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-moilanen/</guid>
       <description></description>
@@ -2796,7 +2715,7 @@
     <item>
       <title>L. Tao</title>
       <link>https://yz-lab.org/main/authors/l.-tao/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-tao/</guid>
       <description></description>
@@ -2814,7 +2733,7 @@
     <item>
       <title>L. Valenti</title>
       <link>https://yz-lab.org/main/authors/l.-valenti/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-valenti/</guid>
       <description></description>
@@ -2823,7 +2742,7 @@
     <item>
       <title>L. Van Gaal</title>
       <link>https://yz-lab.org/main/authors/l.-van-gaal/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-van-gaal/</guid>
       <description></description>
@@ -2850,7 +2769,7 @@
     <item>
       <title>L. Zhou</title>
       <link>https://yz-lab.org/main/authors/l.-zhou/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-zhou/</guid>
       <description></description>
@@ -2859,9 +2778,18 @@
     <item>
       <title>L. Zhou*</title>
       <link>https://yz-lab.org/main/authors/l.-zhou/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/l.-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luyang Li</title>
+      <link>https://yz-lab.org/main/authors/luyang-li/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/luyang-li/</guid>
       <description></description>
     </item>
     
@@ -2875,18 +2803,9 @@
     </item>
     
     <item>
-      <title>M. A. Martinez-Olmos</title>
-      <link>https://yz-lab.org/main/authors/m.-a.-martinez-olmos/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/m.-a.-martinez-olmos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. Aldrovandi</title>
       <link>https://yz-lab.org/main/authors/m.-aldrovandi/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-aldrovandi/</guid>
       <description></description>
@@ -2895,7 +2814,7 @@
     <item>
       <title>M. Arca</title>
       <link>https://yz-lab.org/main/authors/m.-arca/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-arca/</guid>
       <description></description>
@@ -2929,15 +2848,6 @@
     </item>
     
     <item>
-      <title>M. C. Carreira</title>
-      <link>https://yz-lab.org/main/authors/m.-c.-carreira/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/m.-c.-carreira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. Chen</title>
       <link>https://yz-lab.org/main/authors/m.-chen/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -2967,7 +2877,7 @@
     <item>
       <title>M. F. Xia</title>
       <link>https://yz-lab.org/main/authors/m.-f.-xia/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-f.-xia/</guid>
       <description></description>
@@ -3003,7 +2913,7 @@
     <item>
       <title>M. Gaggini</title>
       <link>https://yz-lab.org/main/authors/m.-gaggini/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-gaggini/</guid>
       <description></description>
@@ -3019,6 +2929,15 @@
     </item>
     
     <item>
+      <title>M. Gomez-Serrano</title>
+      <link>https://yz-lab.org/main/authors/m.-gomez-serrano/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/m.-gomez-serrano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>M. H. Shen</title>
       <link>https://yz-lab.org/main/authors/m.-h.-shen/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -3030,7 +2949,7 @@
     <item>
       <title>M. Havana</title>
       <link>https://yz-lab.org/main/authors/m.-havana/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-havana/</guid>
       <description></description>
@@ -3039,7 +2958,7 @@
     <item>
       <title>M. Holtta-Vuori</title>
       <link>https://yz-lab.org/main/authors/m.-holtta-vuori/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-holtta-vuori/</guid>
       <description></description>
@@ -3075,7 +2994,7 @@
     <item>
       <title>M. Jauhiainen</title>
       <link>https://yz-lab.org/main/authors/m.-jauhiainen/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-jauhiainen/</guid>
       <description></description>
@@ -3111,7 +3030,7 @@
     <item>
       <title>M. Leivonen</title>
       <link>https://yz-lab.org/main/authors/m.-leivonen/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-leivonen/</guid>
       <description></description>
@@ -3129,18 +3048,18 @@
     <item>
       <title>M. Lopez</title>
       <link>https://yz-lab.org/main/authors/m.-lopez/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-lopez/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>M. Macias-Gonzalez</title>
-      <link>https://yz-lab.org/main/authors/m.-macias-gonzalez/</link>
+      <title>M. M. Malagon</title>
+      <link>https://yz-lab.org/main/authors/m.-m.-malagon/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/m.-macias-gonzalez/</guid>
+      <guid>https://yz-lab.org/main/authors/m.-m.-malagon/</guid>
       <description></description>
     </item>
     
@@ -3174,7 +3093,7 @@
     <item>
       <title>M. Nagaraj</title>
       <link>https://yz-lab.org/main/authors/m.-nagaraj/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-nagaraj/</guid>
       <description></description>
@@ -3183,7 +3102,7 @@
     <item>
       <title>M. Oresic</title>
       <link>https://yz-lab.org/main/authors/m.-oresic/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-oresic/</guid>
       <description></description>
@@ -3192,36 +3111,18 @@
     <item>
       <title>M. Orho-Melander</title>
       <link>https://yz-lab.org/main/authors/m.-orho-melander/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-orho-melander/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>M. Pardo</title>
-      <link>https://yz-lab.org/main/authors/m.-pardo/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/m.-pardo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. Peltonen</title>
       <link>https://yz-lab.org/main/authors/m.-peltonen/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-peltonen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Qu</title>
-      <link>https://yz-lab.org/main/authors/m.-qu/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/m.-qu/</guid>
       <description></description>
     </item>
     
@@ -3246,7 +3147,7 @@
     <item>
       <title>M. S. Chang</title>
       <link>https://yz-lab.org/main/authors/m.-s.-chang/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-s.-chang/</guid>
       <description></description>
@@ -3264,7 +3165,7 @@
     <item>
       <title>M. Simonen</title>
       <link>https://yz-lab.org/main/authors/m.-simonen/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-simonen/</guid>
       <description></description>
@@ -3298,15 +3199,6 @@
     </item>
     
     <item>
-      <title>M. Varjosalo</title>
-      <link>https://yz-lab.org/main/authors/m.-varjosalo/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/m.-varjosalo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. Wabitsch</title>
       <link>https://yz-lab.org/main/authors/m.-wabitsch/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -3327,7 +3219,7 @@
     <item>
       <title>M. Y. Asghar</title>
       <link>https://yz-lab.org/main/authors/m.-y.-asghar/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-y.-asghar/</guid>
       <description></description>
@@ -3345,7 +3237,7 @@
     <item>
       <title>M. Z. Xie</title>
       <link>https://yz-lab.org/main/authors/m.-z.-xie/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-z.-xie/</guid>
       <description></description>
@@ -3354,7 +3246,7 @@
     <item>
       <title>M. Zhu</title>
       <link>https://yz-lab.org/main/authors/m.-zhu/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/m.-zhu/</guid>
       <description></description>
@@ -3370,29 +3262,29 @@
     </item>
     
     <item>
-      <title>María Gómez-Serrano</title>
-      <link>https://yz-lab.org/main/authors/mar%C3%ADa-g%C3%B3mez-serrano/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>Markku Varjosalo</title>
+      <link>https://yz-lab.org/main/authors/markku-varjosalo/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/mar%C3%ADa-g%C3%B3mez-serrano/</guid>
+      <guid>https://yz-lab.org/main/authors/markku-varjosalo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>María M Malagón</title>
-      <link>https://yz-lab.org/main/authors/mar%C3%ADa-m-malag%C3%B3n/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>Meghana Nagaraj</title>
+      <link>https://yz-lab.org/main/authors/meghana-nagaraj/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/mar%C3%ADa-m-malag%C3%B3n/</guid>
+      <guid>https://yz-lab.org/main/authors/meghana-nagaraj/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Miguel López</title>
-      <link>https://yz-lab.org/main/authors/miguel-l%C3%B3pez/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>Meihua Qu</title>
+      <link>https://yz-lab.org/main/authors/meihua-qu/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/miguel-l%C3%B3pez/</guid>
+      <guid>https://yz-lab.org/main/authors/meihua-qu/</guid>
       <description></description>
     </item>
     
@@ -3424,9 +3316,18 @@
     </item>
     
     <item>
+      <title>N. F. Malvido</title>
+      <link>https://yz-lab.org/main/authors/n.-f.-malvido/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/n.-f.-malvido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>N. Jaser</title>
       <link>https://yz-lab.org/main/authors/n.-jaser/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/n.-jaser/</guid>
       <description></description>
@@ -3444,9 +3345,18 @@
     <item>
       <title>N. Lundbom</title>
       <link>https://yz-lab.org/main/authors/n.-lundbom/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/n.-lundbom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Nakaya</title>
+      <link>https://yz-lab.org/main/authors/n.-nakaya/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/n.-nakaya/</guid>
       <description></description>
     </item>
     
@@ -3460,45 +3370,27 @@
     </item>
     
     <item>
-      <title>Naoki Nakaya</title>
-      <link>https://yz-lab.org/main/authors/naoki-nakaya/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>N. Zhang</title>
+      <link>https://yz-lab.org/main/authors/n.-zhang/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/naoki-nakaya/</guid>
+      <guid>https://yz-lab.org/main/authors/n.-zhang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nicolás F Malvido</title>
-      <link>https://yz-lab.org/main/authors/nicol%C3%A1s-f-malvido/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/nicol%C3%A1s-f-malvido/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Núria Oliveras-Cañellas</title>
-      <link>https://yz-lab.org/main/authors/n%C3%BAria-oliveras-ca%C3%B1ellas/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/n%C3%BAria-oliveras-ca%C3%B1ellas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>O. A. Rangel-Zuniga</title>
-      <link>https://yz-lab.org/main/authors/o.-a.-rangel-zuniga/</link>
+      <title>Núria Oliveras‐Cañellas</title>
+      <link>https://yz-lab.org/main/authors/n%C3%BAria-oliverasca%C3%B1ellas/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/o.-a.-rangel-zuniga/</guid>
+      <guid>https://yz-lab.org/main/authors/n%C3%BAria-oliverasca%C3%B1ellas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>O. P. Dwivedi</title>
       <link>https://yz-lab.org/main/authors/o.-p.-dwivedi/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/o.-p.-dwivedi/</guid>
       <description></description>
@@ -3525,7 +3417,7 @@
     <item>
       <title>P. A. N. Haridas</title>
       <link>https://yz-lab.org/main/authors/p.-a.-n.-haridas/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-a.-n.-haridas/</guid>
       <description></description>
@@ -3604,6 +3496,15 @@
     </item>
     
     <item>
+      <title>P. Garrido-Gil</title>
+      <link>https://yz-lab.org/main/authors/p.-garrido-gil/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/p.-garrido-gil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>P. Gazinska</title>
       <link>https://yz-lab.org/main/authors/p.-gazinska/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -3615,7 +3516,7 @@
     <item>
       <title>P. Gopalacharyulu</title>
       <link>https://yz-lab.org/main/authors/p.-gopalacharyulu/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-gopalacharyulu/</guid>
       <description></description>
@@ -3642,7 +3543,7 @@
     <item>
       <title>P. Jousilahti</title>
       <link>https://yz-lab.org/main/authors/p.-jousilahti/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-jousilahti/</guid>
       <description></description>
@@ -3651,7 +3552,7 @@
     <item>
       <title>P. K. Luukkonen</title>
       <link>https://yz-lab.org/main/authors/p.-k.-luukkonen/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-k.-luukkonen/</guid>
       <description></description>
@@ -3660,7 +3561,7 @@
     <item>
       <title>P. Kakela</title>
       <link>https://yz-lab.org/main/authors/p.-kakela/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-kakela/</guid>
       <description></description>
@@ -3669,7 +3570,7 @@
     <item>
       <title>P. Kronqvist</title>
       <link>https://yz-lab.org/main/authors/p.-kronqvist/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-kronqvist/</guid>
       <description></description>
@@ -3678,7 +3579,7 @@
     <item>
       <title>P. Li</title>
       <link>https://yz-lab.org/main/authors/p.-li/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-li/</guid>
       <description></description>
@@ -3714,7 +3615,7 @@
     <item>
       <title>P. Rodrigues</title>
       <link>https://yz-lab.org/main/authors/p.-rodrigues/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-rodrigues/</guid>
       <description></description>
@@ -3732,7 +3633,7 @@
     <item>
       <title>P. Vikman</title>
       <link>https://yz-lab.org/main/authors/p.-vikman/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-vikman/</guid>
       <description></description>
@@ -3741,7 +3642,7 @@
     <item>
       <title>P. Wan</title>
       <link>https://yz-lab.org/main/authors/p.-wan/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-wan/</guid>
       <description></description>
@@ -3750,18 +3651,18 @@
     <item>
       <title>P. Yao</title>
       <link>https://yz-lab.org/main/authors/p.-yao/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/p.-yao/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pablo Garrido-Gil</title>
-      <link>https://yz-lab.org/main/authors/pablo-garrido-gil/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>PA Nidhina Haridas</title>
+      <link>https://yz-lab.org/main/authors/pa-nidhina-haridas/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/pablo-garrido-gil/</guid>
+      <guid>https://yz-lab.org/main/authors/pa-nidhina-haridas/</guid>
       <description></description>
     </item>
     
@@ -3771,6 +3672,15 @@
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/q.-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q. Huang</title>
+      <link>https://yz-lab.org/main/authors/q.-huang/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/q.-huang/</guid>
       <description></description>
     </item>
     
@@ -3831,7 +3741,7 @@
     <item>
       <title>Q. M. Anstee</title>
       <link>https://yz-lab.org/main/authors/q.-m.-anstee/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/q.-m.-anstee/</guid>
       <description></description>
@@ -3840,7 +3750,7 @@
     <item>
       <title>Q. Wang</title>
       <link>https://yz-lab.org/main/authors/q.-wang/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/q.-wang/</guid>
       <description></description>
@@ -3861,15 +3771,6 @@
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/r.-andrews/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Bai</title>
-      <link>https://yz-lab.org/main/authors/r.-bai/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/r.-bai/</guid>
       <description></description>
     </item>
     
@@ -3948,7 +3849,7 @@
     <item>
       <title>R. Kakela</title>
       <link>https://yz-lab.org/main/authors/r.-kakela/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/r.-kakela/</guid>
       <description></description>
@@ -4020,7 +3921,7 @@
     <item>
       <title>R. Mysore</title>
       <link>https://yz-lab.org/main/authors/r.-mysore/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/r.-mysore/</guid>
       <description></description>
@@ -4038,7 +3939,7 @@
     <item>
       <title>R. T. Hu</title>
       <link>https://yz-lab.org/main/authors/r.-t.-hu/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/r.-t.-hu/</guid>
       <description></description>
@@ -4081,6 +3982,15 @@
     </item>
     
     <item>
+      <title>Ran Bai</title>
+      <link>https://yz-lab.org/main/authors/ran-bai/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/ran-bai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Riikka Hynynen</title>
       <link>https://yz-lab.org/main/authors/riikka-hynynen/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
@@ -4108,15 +4018,6 @@
     </item>
     
     <item>
-      <title>S. Becerril</title>
-      <link>https://yz-lab.org/main/authors/s.-becerril/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/s.-becerril/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>S. Bolsega</title>
       <link>https://yz-lab.org/main/authors/s.-bolsega/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -4137,7 +4038,7 @@
     <item>
       <title>S. Crittenden</title>
       <link>https://yz-lab.org/main/authors/s.-crittenden/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-crittenden/</guid>
       <description></description>
@@ -4155,7 +4056,7 @@
     <item>
       <title>S. E. Humphries</title>
       <link>https://yz-lab.org/main/authors/s.-e.-humphries/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-e.-humphries/</guid>
       <description></description>
@@ -4164,7 +4065,7 @@
     <item>
       <title>S. Fargion</title>
       <link>https://yz-lab.org/main/authors/s.-fargion/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-fargion/</guid>
       <description></description>
@@ -4173,7 +4074,7 @@
     <item>
       <title>S. Francque</title>
       <link>https://yz-lab.org/main/authors/s.-francque/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-francque/</guid>
       <description></description>
@@ -4198,6 +4099,15 @@
     </item>
     
     <item>
+      <title>S. I. Tomarev</title>
+      <link>https://yz-lab.org/main/authors/s.-i.-tomarev/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/s.-i.-tomarev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>S. Irshad</title>
       <link>https://yz-lab.org/main/authors/s.-irshad/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -4216,15 +4126,6 @@
     </item>
     
     <item>
-      <title>S. K. G. Emmagouni</title>
-      <link>https://yz-lab.org/main/authors/s.-k.-g.-emmagouni/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/s.-k.-g.-emmagouni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>S. Kamdar</title>
       <link>https://yz-lab.org/main/authors/s.-kamdar/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
@@ -4236,18 +4137,9 @@
     <item>
       <title>S. Keinanen-Kiukaanniemi</title>
       <link>https://yz-lab.org/main/authors/s.-keinanen-kiukaanniemi/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-keinanen-kiukaanniemi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Keskitalo</title>
-      <link>https://yz-lab.org/main/authors/s.-keskitalo/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/s.-keskitalo/</guid>
       <description></description>
     </item>
     
@@ -4263,7 +4155,7 @@
     <item>
       <title>S. Lallukka</title>
       <link>https://yz-lab.org/main/authors/s.-lallukka/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-lallukka/</guid>
       <description></description>
@@ -4272,7 +4164,7 @@
     <item>
       <title>S. Lallukka-Bruck</title>
       <link>https://yz-lab.org/main/authors/s.-lallukka-bruck/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-lallukka-bruck/</guid>
       <description></description>
@@ -4281,7 +4173,7 @@
     <item>
       <title>S. Li</title>
       <link>https://yz-lab.org/main/authors/s.-li/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-li/</guid>
       <description></description>
@@ -4290,7 +4182,7 @@
     <item>
       <title>S. M. Allen</title>
       <link>https://yz-lab.org/main/authors/s.-m.-allen/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-m.-allen/</guid>
       <description></description>
@@ -4308,7 +4200,7 @@
     <item>
       <title>S. Ma</title>
       <link>https://yz-lab.org/main/authors/s.-ma/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-ma/</guid>
       <description></description>
@@ -4326,7 +4218,7 @@
     <item>
       <title>S. Mannisto</title>
       <link>https://yz-lab.org/main/authors/s.-mannisto/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-mannisto/</guid>
       <description></description>
@@ -4347,6 +4239,15 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-meckelmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Mora</title>
+      <link>https://yz-lab.org/main/authors/s.-mora/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/s.-mora/</guid>
       <description></description>
     </item>
     
@@ -4378,15 +4279,6 @@
     </item>
     
     <item>
-      <title>S. Pauli</title>
-      <link>https://yz-lab.org/main/authors/s.-pauli/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/s.-pauli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>S. Qadri</title>
       <link>https://yz-lab.org/main/authors/s.-qadri/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -4398,7 +4290,7 @@
     <item>
       <title>S. Qin</title>
       <link>https://yz-lab.org/main/authors/s.-qin/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-qin/</guid>
       <description></description>
@@ -4434,7 +4326,7 @@
     <item>
       <title>S. S. Chen</title>
       <link>https://yz-lab.org/main/authors/s.-s.-chen/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-s.-chen/</guid>
       <description></description>
@@ -4443,7 +4335,7 @@
     <item>
       <title>S. Sadevirta</title>
       <link>https://yz-lab.org/main/authors/s.-sadevirta/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-sadevirta/</guid>
       <description></description>
@@ -4470,7 +4362,7 @@
     <item>
       <title>S. Venesmaa</title>
       <link>https://yz-lab.org/main/authors/s.-venesmaa/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-venesmaa/</guid>
       <description></description>
@@ -4488,7 +4380,7 @@
     <item>
       <title>S. W. Meckelmann</title>
       <link>https://yz-lab.org/main/authors/s.-w.-meckelmann/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-w.-meckelmann/</guid>
       <description></description>
@@ -4506,27 +4398,36 @@
     <item>
       <title>S. Yang</title>
       <link>https://yz-lab.org/main/authors/s.-yang/</link>
-      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/s.-yang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Silvia Mora</title>
-      <link>https://yz-lab.org/main/authors/silvia-mora/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>Salla Keskitalo</title>
+      <link>https://yz-lab.org/main/authors/salla-keskitalo/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/silvia-mora/</guid>
+      <guid>https://yz-lab.org/main/authors/salla-keskitalo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stanislav I Tomarev</title>
-      <link>https://yz-lab.org/main/authors/stanislav-i-tomarev/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <title>Sara Paulí</title>
+      <link>https://yz-lab.org/main/authors/sara-paul%C3%AD/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yz-lab.org/main/authors/stanislav-i-tomarev/</guid>
+      <guid>https://yz-lab.org/main/authors/sara-paul%C3%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharath Kumar Goud Emmagouni</title>
+      <link>https://yz-lab.org/main/authors/sharath-kumar-goud-emmagouni/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/sharath-kumar-goud-emmagouni/</guid>
       <description></description>
     </item>
     
@@ -4551,7 +4452,7 @@
     <item>
       <title>T. E. Lehtimaki</title>
       <link>https://yz-lab.org/main/authors/t.-e.-lehtimaki/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/t.-e.-lehtimaki/</guid>
       <description></description>
@@ -4569,7 +4470,7 @@
     <item>
       <title>T. Hyotylainen</title>
       <link>https://yz-lab.org/main/authors/t.-hyotylainen/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/t.-hyotylainen/</guid>
       <description></description>
@@ -4587,7 +4488,7 @@
     <item>
       <title>T. Lassila</title>
       <link>https://yz-lab.org/main/authors/t.-lassila/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/t.-lassila/</guid>
       <description></description>
@@ -4632,7 +4533,7 @@
     <item>
       <title>T. Tukiainen</title>
       <link>https://yz-lab.org/main/authors/t.-tukiainen/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/t.-tukiainen/</guid>
       <description></description>
@@ -4650,7 +4551,7 @@
     <item>
       <title>T. Zhou</title>
       <link>https://yz-lab.org/main/authors/t.-zhou/</link>
-      <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/t.-zhou/</guid>
       <description></description>
@@ -4675,18 +4576,9 @@
     </item>
     
     <item>
-      <title>V. Chaurasiya</title>
-      <link>https://yz-lab.org/main/authors/v.-chaurasiya/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/v.-chaurasiya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>V. D. Nguyen</title>
       <link>https://yz-lab.org/main/authors/v.-d.-nguyen/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/v.-d.-nguyen/</guid>
       <description></description>
@@ -4704,7 +4596,7 @@
     <item>
       <title>V. J. Tyrrell</title>
       <link>https://yz-lab.org/main/authors/v.-j.-tyrrell/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/v.-j.-tyrrell/</guid>
       <description></description>
@@ -4713,7 +4605,7 @@
     <item>
       <title>V. Karja</title>
       <link>https://yz-lab.org/main/authors/v.-karja/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/v.-karja/</guid>
       <description></description>
@@ -4722,7 +4614,7 @@
     <item>
       <title>V. Lo Sardo</title>
       <link>https://yz-lab.org/main/authors/v.-lo-sardo/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/v.-lo-sardo/</guid>
       <description></description>
@@ -4731,7 +4623,7 @@
     <item>
       <title>V. M. Olkkonen</title>
       <link>https://yz-lab.org/main/authors/v.-m.-olkkonen/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/v.-m.-olkkonen/</guid>
       <description></description>
@@ -4740,7 +4632,7 @@
     <item>
       <title>V. Pelloux</title>
       <link>https://yz-lab.org/main/authors/v.-pelloux/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/v.-pelloux/</guid>
       <description></description>
@@ -4758,7 +4650,7 @@
     <item>
       <title>V. T. Mannisto</title>
       <link>https://yz-lab.org/main/authors/v.-t.-mannisto/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/v.-t.-mannisto/</guid>
       <description></description>
@@ -4774,6 +4666,33 @@
     </item>
     
     <item>
+      <title>Vaishali Chaurasiya</title>
+      <link>https://yz-lab.org/main/authors/vaishali-chaurasiya/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/vaishali-chaurasiya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Van Dien Nguyen</title>
+      <link>https://yz-lab.org/main/authors/van-dien-nguyen/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/van-dien-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vesa M Olkkonen</title>
+      <link>https://yz-lab.org/main/authors/vesa-m-olkkonen/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/vesa-m-olkkonen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vesa M. Olkkonen</title>
       <link>https://yz-lab.org/main/authors/vesa-m.-olkkonen/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
@@ -4785,7 +4704,7 @@
     <item>
       <title>W. J. He</title>
       <link>https://yz-lab.org/main/authors/w.-j.-he/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/w.-j.-he/</guid>
       <description></description>
@@ -4794,7 +4713,7 @@
     <item>
       <title>W. J. Watkins</title>
       <link>https://yz-lab.org/main/authors/w.-j.-watkins/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/w.-j.-watkins/</guid>
       <description></description>
@@ -4846,6 +4765,15 @@
     </item>
     
     <item>
+      <title>W. Szymanski</title>
+      <link>https://yz-lab.org/main/authors/w.-szymanski/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/w.-szymanski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>W. Tan</title>
       <link>https://yz-lab.org/main/authors/w.-tan/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
@@ -4882,20 +4810,29 @@
     </item>
     
     <item>
-      <title>Witold Szymanski</title>
-      <link>https://yz-lab.org/main/authors/witold-szymanski/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/witold-szymanski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>X. Bai</title>
       <link>https://yz-lab.org/main/authors/x.-bai/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/x.-bai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Du</title>
+      <link>https://yz-lab.org/main/authors/x.-du/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/x.-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Du*</title>
+      <link>https://yz-lab.org/main/authors/x.-du/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/x.-du/</guid>
       <description></description>
     </item>
     
@@ -4929,9 +4866,18 @@
     <item>
       <title>X. Gao</title>
       <link>https://yz-lab.org/main/authors/x.-gao/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/x.-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Guo</title>
+      <link>https://yz-lab.org/main/authors/x.-guo/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/x.-guo/</guid>
       <description></description>
     </item>
     
@@ -4974,7 +4920,7 @@
     <item>
       <title>X. Liu</title>
       <link>https://yz-lab.org/main/authors/x.-liu/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/x.-liu/</guid>
       <description></description>
@@ -5001,7 +4947,7 @@
     <item>
       <title>X. Wu</title>
       <link>https://yz-lab.org/main/authors/x.-wu/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/x.-wu/</guid>
       <description></description>
@@ -5010,7 +4956,7 @@
     <item>
       <title>X. X. Chang</title>
       <link>https://yz-lab.org/main/authors/x.-x.-chang/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/x.-x.-chang/</guid>
       <description></description>
@@ -5064,7 +5010,16 @@
     <item>
       <title>Y. Chen</title>
       <link>https://yz-lab.org/main/authors/y.-chen/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/y.-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Chen*</title>
+      <link>https://yz-lab.org/main/authors/y.-chen/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/y.-chen/</guid>
       <description></description>
@@ -5127,7 +5082,7 @@
     <item>
       <title>Y. T. Zhu</title>
       <link>https://yz-lab.org/main/authors/y.-t.-zhu/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/y.-t.-zhu/</guid>
       <description></description>
@@ -5145,7 +5100,7 @@
     <item>
       <title>Y. Wang</title>
       <link>https://yz-lab.org/main/authors/y.-wang/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/y.-wang/</guid>
       <description></description>
@@ -5172,7 +5127,7 @@
     <item>
       <title>Y. Yin</title>
       <link>https://yz-lab.org/main/authors/y.-yin/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/y.-yin/</guid>
       <description></description>
@@ -5199,18 +5154,36 @@
     <item>
       <title>Y. Zhou*</title>
       <link>https://yz-lab.org/main/authors/y.-zhou/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/y.-zhou/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Yi Wang</title>
+      <link>https://yz-lab.org/main/authors/yi-wang/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/yi-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>You Zhou</title>
       <link>https://yz-lab.org/main/authors/you-zhou/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/you-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yubing Wang</title>
+      <link>https://yz-lab.org/main/authors/yubing-wang/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/yubing-wang/</guid>
       <description></description>
     </item>
     
@@ -5220,15 +5193,6 @@
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/z.-dong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Z. Gao</title>
-      <link>https://yz-lab.org/main/authors/z.-gao/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://yz-lab.org/main/authors/z.-gao/</guid>
       <description></description>
     </item>
     
@@ -5244,7 +5208,7 @@
     <item>
       <title>Z. Huang</title>
       <link>https://yz-lab.org/main/authors/z.-huang/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/z.-huang/</guid>
       <description></description>
@@ -5307,7 +5271,7 @@
     <item>
       <title>Z. Wang</title>
       <link>https://yz-lab.org/main/authors/z.-wang/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/z.-wang/</guid>
       <description></description>
@@ -5352,9 +5316,18 @@
     <item>
       <title>Z. Yan</title>
       <link>https://yz-lab.org/main/authors/z.-yan/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://yz-lab.org/main/authors/z.-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiqin Gao</title>
+      <link>https://yz-lab.org/main/authors/zhiqin-gao/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://yz-lab.org/main/authors/zhiqin-gao/</guid>
       <description></description>
     </item>
     
