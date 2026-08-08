@@ -3,7 +3,25 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/publication/rn-300/</loc>
+      <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/publication/rn-302/</loc>
+      <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/publication/rn-199/</loc>
+      <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/publication/rn-301/</loc>
       <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     </url>
   
@@ -713,6 +731,13 @@
     
       <loc>https://yz-lab.org/main/publication_types/0/</loc>
       <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://yz-lab.org/main/publication_types/1/</loc>
+      <lastmod>2026-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -3011,6 +3036,13 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/kathy-triantafilou/</loc>
+      <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/authors/l.-a.-j.-oneill/</loc>
       <lastmod>2023-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -4526,6 +4558,13 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/shenglei-fang/</loc>
+      <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/tags/single-nucleotide-risk-factors-case-control-gene-polymorphism-interleukin-10-irritable-bowel-syndrome-meta-analysis/</loc>
       <lastmod>2013-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -4927,6 +4966,13 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/wei-hang/</loc>
+      <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/tags/western-cell-cycle/drug-effects/physiology-cell-cycle-proteins/metabolism-fluorescent-antibody-technique-hep-g2-cells-humans-hydroxycholesterols/pharmacology-immunoprecipitation-microscopy/</loc>
       <lastmod>2014-04-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -5095,6 +5141,13 @@
   
     <url>
     
+      <loc>https://yz-lab.org/main/authors/xianfang-sun/</loc>
+      <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://yz-lab.org/main/authors/y.-chen/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -5229,7 +5282,7 @@
     <url>
     
       <loc>https://yz-lab.org/main/authors/you-zhou/</loc>
-      <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2026-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
