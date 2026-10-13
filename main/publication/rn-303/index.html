@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Sequence models typically operate at a fixed temporal or spatial scale and struggle to generalize to substantially longer horizons or higher resolutions without retraining. Existing hierarchical architectures expand receptive fields but rely on scale-specific parameters and lack mechanisms to enforce consistent dynamics across scales. We propose Dynamic Fractal Mamba (DF-Mamba), a recursive state-space model that applies a single shared operator across multiple scales. By sharing parameters across recursion depths and exponentially scaling the effective time step, DF-Mamba achieves an exponentially expanding receptive field while preserving linear computational complexity. A learned content-aware coarse-graining module aggregates representations across scales. Auxiliary reconstruction and cross-scale consistency objectives stabilize recursive training. We evaluate DF-Mamba on long-range time-series forecasting, spatial transcriptomics, and computational pathology. Across all tasks, DF-Mamba consistently outperforms Transformers and flat Mamba baselines while using fewer parameters and maintaining linear-time scalability. Importantly, models trained on short sequences or low-resolution inputs generalize in a zero-shot manner to substantially larger temporal and spatial scales unseen during training. These results demonstrate that recursive parameter sharing provides an effective inductive bias for learning scale-consistent and efficient sequence representations.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://yz-lab.org/main/publication/rn-301/">
+  <link rel="alternate" hreflang="en-us" href="https://yz-lab.org/main/publication/rn-303/">
 
   
 
@@ -120,7 +120,7 @@
   <link rel="icon" type="image/png" href="/main/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/main/img/icon-192.png">
 
-  <link rel="canonical" href="https://yz-lab.org/main/publication/rn-301/">
+  <link rel="canonical" href="https://yz-lab.org/main/publication/rn-303/">
 
   
   
@@ -135,12 +135,12 @@
   <meta property="twitter:creator" content="@_YZlab">
   
   <meta property="og:site_name" content="YZ Lab">
-  <meta property="og:url" content="https://yz-lab.org/main/publication/rn-301/">
-  <meta property="og:title" content="VBA: Vector Bundle Attention for Intrinsically Geometric Representation Learning | YZ Lab">
-  <meta property="og:description" content=""><meta property="og:image" content="https://yz-lab.org/main/img/icon-192.png">
+  <meta property="og:url" content="https://yz-lab.org/main/publication/rn-303/">
+  <meta property="og:title" content="Dynamic Fractal Mamba: A Neural Renormalization Group Flow for Scale-Invariant Sequence Modeling | YZ Lab">
+  <meta property="og:description" content="Sequence models typically operate at a fixed temporal or spatial scale and struggle to generalize to substantially longer horizons or higher resolutions without retraining. Existing hierarchical architectures expand receptive fields but rely on scale-specific parameters and lack mechanisms to enforce consistent dynamics across scales. We propose Dynamic Fractal Mamba (DF-Mamba), a recursive state-space model that applies a single shared operator across multiple scales. By sharing parameters across recursion depths and exponentially scaling the effective time step, DF-Mamba achieves an exponentially expanding receptive field while preserving linear computational complexity. A learned content-aware coarse-graining module aggregates representations across scales. Auxiliary reconstruction and cross-scale consistency objectives stabilize recursive training. We evaluate DF-Mamba on long-range time-series forecasting, spatial transcriptomics, and computational pathology. Across all tasks, DF-Mamba consistently outperforms Transformers and flat Mamba baselines while using fewer parameters and maintaining linear-time scalability. Importantly, models trained on short sequences or low-resolution inputs generalize in a zero-shot manner to substantially larger temporal and spatial scales unseen during training. These results demonstrate that recursive parameter sharing provides an effective inductive bias for learning scale-consistent and efficient sequence representations."><meta property="og:image" content="https://yz-lab.org/main/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2026-09-11T18:21:10&#43;00:00">
+  <meta property="article:published_time" content="2026-10-06T18:22:53&#43;00:00">
   
   <meta property="article:modified_time" content="2026-01-01T00:00:00&#43;00:00">
   
@@ -149,7 +149,7 @@
 
   
 
-  <title>VBA: Vector Bundle Attention for Intrinsically Geometric Representation Learning | YZ Lab</title>
+  <title>Dynamic Fractal Mamba: A Neural Renormalization Group Flow for Scale-Invariant Sequence Modeling | YZ Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -384,7 +384,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">VBA: Vector Bundle Attention for Intrinsically Geometric Representation Learning</h1>
+  <h1 itemprop="name">Dynamic Fractal Mamba: A Neural Renormalization Group Flow for Scale-Invariant Sequence Modeling</h1>
 
   
 
@@ -461,35 +461,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=VBA%3a%20Vector%20Bundle%20Attention%20for%20Intrinsically%20Geometric%20Representation%20Learning&amp;url=https%3a%2f%2fyz-lab.org%2fmain%2fpublication%2frn-301%2f"
+         href="https://twitter.com/intent/tweet?text=Dynamic%20Fractal%20Mamba%3a%20A%20Neural%20Renormalization%20Group%20Flow%20for%20Scale-Invariant%20Sequence%20Modeling&amp;url=https%3a%2f%2fyz-lab.org%2fmain%2fpublication%2frn-303%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyz-lab.org%2fmain%2fpublication%2frn-301%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyz-lab.org%2fmain%2fpublication%2frn-303%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyz-lab.org%2fmain%2fpublication%2frn-301%2f&amp;title=VBA%3a%20Vector%20Bundle%20Attention%20for%20Intrinsically%20Geometric%20Representation%20Learning"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyz-lab.org%2fmain%2fpublication%2frn-303%2f&amp;title=Dynamic%20Fractal%20Mamba%3a%20A%20Neural%20Renormalization%20Group%20Flow%20for%20Scale-Invariant%20Sequence%20Modeling"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyz-lab.org%2fmain%2fpublication%2frn-301%2f&amp;title=VBA%3a%20Vector%20Bundle%20Attention%20for%20Intrinsically%20Geometric%20Representation%20Learning"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyz-lab.org%2fmain%2fpublication%2frn-303%2f&amp;title=Dynamic%20Fractal%20Mamba%3a%20A%20Neural%20Renormalization%20Group%20Flow%20for%20Scale-Invariant%20Sequence%20Modeling"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=VBA%3a%20Vector%20Bundle%20Attention%20for%20Intrinsically%20Geometric%20Representation%20Learning&amp;body=https%3a%2f%2fyz-lab.org%2fmain%2fpublication%2frn-301%2f">
+         href="mailto:?subject=Dynamic%20Fractal%20Mamba%3a%20A%20Neural%20Renormalization%20Group%20Flow%20for%20Scale-Invariant%20Sequence%20Modeling&amp;body=https%3a%2f%2fyz-lab.org%2fmain%2fpublication%2frn-303%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -532,13 +532,19 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://proceedings.mlr.press/v306/fang26p.html" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/main/publication/rn-301/cite.bib">
+        data-filename="/main/publication/rn-303/cite.bib">
   Cite
 </button>
 
@@ -567,6 +573,9 @@
   <div class="article-container">
 
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Sequence models typically operate at a fixed temporal or spatial scale and struggle to generalize to substantially longer horizons or higher resolutions without retraining. Existing hierarchical architectures expand receptive fields but rely on scale-specific parameters and lack mechanisms to enforce consistent dynamics across scales. We propose Dynamic Fractal Mamba (DF-Mamba), a recursive state-space model that applies a single shared operator across multiple scales. By sharing parameters across recursion depths and exponentially scaling the effective time step, DF-Mamba achieves an exponentially expanding receptive field while preserving linear computational complexity. A learned content-aware coarse-graining module aggregates representations across scales. Auxiliary reconstruction and cross-scale consistency objectives stabilize recursive training. We evaluate DF-Mamba on long-range time-series forecasting, spatial transcriptomics, and computational pathology. Across all tasks, DF-Mamba consistently outperforms Transformers and flat Mamba baselines while using fewer parameters and maintaining linear-time scalability. Importantly, models trained on short sequences or low-resolution inputs generalize in a zero-shot manner to substantially larger temporal and spatial scales unseen during training. These results demonstrate that recursive parameter sharing provides an effective inductive bias for learning scale-consistent and efficient sequence representations.</p>
+    
 
     
     <div class="row">
@@ -579,8 +588,8 @@
 
             
             
-            <a href="/main/publication/#1">
-              Conference paper
+            <a href="/main/publication/#0">
+              Uncategorized
             </a>
             
           </div>
@@ -597,7 +606,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Forty-third International Conference on Machine Learning</em></div>
+          <div class="col-12 col-md-9"><em>Proceedings of the 43rd International Conference on Machine Learning</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>

@@ -1,0 +1,12 @@
+@misc{RN303,
+ abstract = {Sequence models typically operate at a fixed temporal or spatial scale and struggle to generalize to substantially longer horizons or higher resolutions without retraining. Existing hierarchical architectures expand receptive fields but rely on scale-specific parameters and lack mechanisms to enforce consistent dynamics across scales. We propose Dynamic Fractal Mamba (DF-Mamba), a recursive state-space model that applies a single shared operator across multiple scales. By sharing parameters across recursion depths and exponentially scaling the effective time step, DF-Mamba achieves an exponentially expanding receptive field while preserving linear computational complexity. A learned content-aware coarse-graining module aggregates representations across scales. Auxiliary reconstruction and cross-scale consistency objectives stabilize recursive training. We evaluate DF-Mamba on long-range time-series forecasting, spatial transcriptomics, and computational pathology. Across all tasks, DF-Mamba consistently outperforms Transformers and flat Mamba baselines while using fewer parameters and maintaining linear-time scalability. Importantly, models trained on short sequences or low-resolution inputs generalize in a zero-shot manner to substantially larger temporal and spatial scales unseen during training. These results demonstrate that recursive parameter sharing provides an effective inductive bias for learning scale-consistent and efficient sequence representations.},
+ author = {Fang, Shenglei and Sun, Xianfang and Zhou, You},
+ journal = {Proceedings of the 43rd International Conference on Machine Learning},
+ pages = {29318--29346},
+ publisher = {PMLR},
+ title = {Dynamic Fractal Mamba: A Neural Renormalization Group Flow for Scale-Invariant Sequence Modeling},
+ type = {Conference Paper},
+ url = {https://proceedings.mlr.press/v306/fang26p.html},
+ volume = {306},
+ year = {2026}
+}
